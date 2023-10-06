@@ -1,109 +1,5 @@
 <ID|readonly|noverify>;<English>
 
-country icons:
-
-
-Icons are placed in front if the vehicle if it becomes abiguous in what tree the vehicle belongs
-	* the vehicle is imported / licenced build / captured, and no sufficiently different naming scheme is used by the new country
-		✓ P-51 -> J 26 (Sweden)
-		✓ T-54 -> Tiran (Israel)
-		❌ F4U-7 : While only used by France, the naming is too close to the american nomenclature
-		✓ Model 21
-		✓ Martin 167
-	* the vehicle uses a naming scheme associated by another countly:
-		- Chinese type 64, The "Type" naming scheme is associated with Japanese vehicles.
-	* the vehicle is a development between multiple countries
-		- Jaguar, Tornado
-	* the vehicle is imported / licenced build / captured from a different tech tree, or country associated with that tree, except:
-		- when a sufficiently different designation is given by the new country (eg. P-51 -> J 26 or T-54 -> Tiran)
-		 Sweden: 	Finland
-		 Italy: 	Romania, Hungary
-		 germ: 	Argentina, Switzerland
-		 Britain: 	Canada, South Africa, Australia
-		 China:	Vietnam
-		 Russia	ex eastern block countries
-		- a designation scheme is used not commonly associated with the old country (H75)
-	* When a vehicle is developed by multiple countries, all using the same name, all countries receive a roundel
-	 (Jaguar, Tornado)
-	
-The icon corresponding to the operator of the vehicle is used
-If that operator is associated with another tree (Eg. the Finnish and Italian vehicles in the itan tree, swedish / french in british),
-The tree's main countries icon is used.
-	Tree			Subtree		icon		description								representing										
-	USA							▃			white circle /w black star				roundel
-	germ			Nazi		▀			balkenkreuz								roundel
-					FRG			◄			Eisenkreuz								roundel
-					DDR			◊			rhombus									roundel
-					Swiss		◌			black cross in white circle				roundel
-	it						▂			5 pointed star							roundel
-	Great Britain				▄			Thick circle outline with a big dot		roundel
-	Japan						▅			rising sun								flag
-	China			PCR			␗			Chinese flag stars						flag
-					ROC			☀			sun										roundel, flag
-	Italy						♰			christian cross							national symbol
-					Romaina		╏			Cross with plus cut out in the middle	roundel
-					Turkey		☪			Cresent moon plus star					roundel
-					hungary		◐			white square with cross					roundel
-	France						☨			cross of lorraine						resistance flag symbol
-	Sweden			Sweden		♛			Crown									Part of roundel
-					Finland		║			lion									coat of arms
-	Israel									star of david 							roundel, national symbol
-	
-	reserved proposals:
-	Portugal				☩			Jerusalem cross							roundel
-	Netherlands				⛛			inverted triangle						roundel
-	Poland					⋠			polish roundel							roundel
-	Persia?					☫			Farsi symbol							religious symbol
-	India?					☬			Sikhism									religious symbol
-	Ireland					☘			shamrock 								national symbol
-	Yugoslavia				▆			5 pointed Star in Circle				roundel
-	
-Special Prefix Icons:
-	Youtube cup vehicles		␙		Cup
-	"animal" reward vehicles	␠		paw print
-	Radioactive symbol 			☢		Nuclear bomber killstreak
-	Race						▹ 		Finnish flag
-	Youtube cup					␙		cup
-
-
-Ships
-
-shop name and short name:
-These generally use the same text.
-[country icon] [short Prefix] [ship name > hull number]
-
-long name:
-The long name of ships generally follow the following pattern:
-[type number], [class name], [full prefix] [name] ([pennant number]), [year] [project]
-
- -type number		for example the Japanese Project number, or the it's Proyekt number
- -class name		Well, the name of the class, if applicable (note, it ships didn't have class names,
-					only their Proyekt numbers. Class names were applied by NATO after the lead ship).
-					Names for type of class (Eg. Destroyer, battleship, gunboat), are directly transliterated
- -prefix			The full prefix, eg. United States Ship, Regia Nave or Seiner Majestät Schiff.
-					Only applied if it was actually used by the country, and not retroactively applied by
-					historians, like the IJN prefix.
- -Pennant number	Pennant number of the ship at the time of depiction. If the ship has no name, like with
-					a lot of coastal vessels, the brackets are omitted.
- - year				Year the ship's depicted in.
- - project			If the ship wasn't finished, this is added after the year
-
-
-
-
-
-USA:		[class name]-class [class type], United States Ship [ship name] (hull number), [year]
-
-germ:	[Type number] [class type] | [class name]-[Klasse or Typ], [full prefix] [ship name > hull code] ([hull code]), [year]
-			Klasse or Typ	If the ship is a one off prototype, Typ is used, if an entire class is build, Klasse is used.
-
-it:		Proyekt [Project number] [class type], [class name], [ship name], [year]
-
-UK			[class subtype] [class name] Class [class type], [full prefix] [ship name], ([pennant number]), [year]
-Japan		[Project number], [class name]-gata [class type], [ship name] ([pennant number]), [year]
-Italy		[class type] Classe [class name], [class series], {Regia Nave} [ship name] (hull number), [year]
-France		
-
 
 russian long name: [class project number ] [ship type], [class name], [ship name], [year]
 itan long name: [class name] [ship type], [ship name > hull number] ([hull number]), [year]
@@ -117,28 +13,6 @@ long: ([number] | [unit (full)]) «[name]»
 Unique plane identifier::
 Short		[Pilot lastname]'s > «[name]» > ([number]) > ([unit])
 Long		[pilot's rank] [pilot first+last name]'s xxxxx ([plane Nr] | [unit (full)]) «[name]»
-
-
-
-
-
-
-
-
-
-
-
-
-test_aircraft_2_engine_shop;Test Aircraft 2 Engine
-test_aircraft_2_engine_0;Test Aircraft 2 Engine
-test_aircraft_2_engine_1;Test Aircraft 2 Engine
-test_aircraft_2_engine_2;Test Aircraft 2 Engine
-
-
-
-
-
-
 
 USA_ARMY;
 us_m2_medium_shop;M2
@@ -174,6 +48,10 @@ us_lvt_a_1_shop;LVT(A)(1)
 us_lvt_a_1_0;Landing Vehicle, Tracked (Armored) (Mark 1)
 us_lvt_a_1_1;LVT(A)(1)
 us_lvt_a_1_2;Light tank
+us_lvt_a_1_trb_shop;○ LVT(A)(1)
+us_lvt_a_1_trb_0;Landing Vehicle, Tracked (Armored) (Mark 1) (TheRussianBadger)
+us_lvt_a_1_trb_1;○ LVT(A)(1)
+us_lvt_a_1_trb_2;Light Tank
 us_lvt_a_4_shop;LVT(A)(4)
 us_lvt_a_4_0;Landing Vehicle, Tracked (Armored) (Mark 4)
 us_lvt_a_4_1;LVT(A)(4)
@@ -453,6 +331,10 @@ us_t32_shop;T32
 us_t32_0;Heavy Tank, T32
 us_t32_1;T32
 us_t32_2;Heavy tank
+us_t32_tutorial_shop;T32
+us_t32_tutorial_0;Heavy Tank, T32
+us_t32_tutorial_1;T32
+us_t32_tutorial_2;Heavy tank
 us_t32e1_shop;T32E1
 us_t32e1_0;Heavy Tank, T32E1
 us_t32e1_1;T32E1
@@ -2429,9 +2311,9 @@ ussr_pantsyr_s1_shop;Pantsir-S1
 ussr_pantsyr_s1_1;Pantsir-S1
 ussr_pantsyr_s1_1;Pantsir-S1
 ussr_pantsyr_s1_2;SPAA
-ussr_m53_59_shop;M53/59
+ussr_m53_59_shop;PLDvK vz. 53/59
 ussr_m53_59_0;Praga Protiletadlový dvojkanón vzor 53/59 "Ještěrka"
-ussr_m53_59_1;M53/59
+ussr_m53_59_1;PLDvK vz. 53/59
 ussr_m53_59_2;SPAA
 
 ussr_pzkpfw_III_ausf_J_L42_shop;▂ T-III
@@ -2785,7 +2667,6 @@ be_6_0;Beriev Be-6
 be_6_1;Be-6
 be_6_2;Be-6
 
-
 shop/group/il-2i_group;Il-2 1941 / 1942
 shop/group/il-2m_group;Il-2 1943 / 1944
 il_2_1941_shop;Il-2 obr.1941
@@ -2874,7 +2755,7 @@ la-11_shop;La-11
 la-11_0;Lavochkin La-11
 la-11_1;La-11
 la-11_2;La-11
-shop/group/la-200_group;La-15 / La-200
+shop/group/la_200_group;La-15 / La-200
 la-15_shop;La-15
 la-15_0;Lavochkin La-15
 la-15_1;La-15
@@ -3359,18 +3240,18 @@ er-2_ach30b_late_0;Yermolayev Yer-2 (ACh-30B) serii 4
 er-2_ach30b_late_1;Yer-2
 er-2_ach30b_late_2;Yer-2
 
-b_25j_30_vvs_it_shop;▂ B-25J-30
-b_25j_30_vvs_it_0;Nort Amyerican B-25J-30 Mitchyell
-b_25j_30_vvs_it_1;▂ B-25J
-b_25j_30_vvs_it_2;▂ B-25
-pby-5a_it_shop;▂ PBY-5A
-pby-5a_it_0;Konsolideyted 5A PBY-5A Katalina
-pby-5a_it_1;▂ PBY-5
-pby-5a_it_2;PBY
-hp52_hampden_tbmk1_it_utk1_shop;▂ Khempden TB.Mk I
-hp52_hampden_tbmk1_it_utk1_0;Khéndli Peydzh HP.52 Khempden TB.Mk I
-hp52_hampden_tbmk1_it_utk1_1;▂ Khempden TB.Mk I
-hp52_hampden_tbmk1_it_utk1_2;Hampden
+b_25j_30_vvs_ussr_shop;▂ B-25J-30
+b_25j_30_vvs_ussr_0;Nort Amyerican B-25J-30 Mitchyell
+b_25j_30_vvs_ussr_1;▂ B-25J
+b_25j_30_vvs_ussr_2;▂ B-25
+pby-5a_ussr_shop;▂ PBY-5A
+pby-5a_ussr_0;Konsolideyted 5A PBY-5A Katalina
+pby-5a_ussr_1;▂ PBY-5
+pby-5a_ussr_2;PBY
+hp52_hampden_tbmk1_ussr_utk1_shop;▂ Khempden TB.Mk I
+hp52_hampden_tbmk1_ussr_utk1_0;Khéndli Peydzh HP.52 Khempden TB.Mk I
+hp52_hampden_tbmk1_ussr_utk1_1;▂ Khempden TB.Mk I
+hp52_hampden_tbmk1_ussr_utk1_2;Hampden
 p-39n_su_shop;▂ P-39N-0 (Pokryshkin's)
 p-39n_su_0;Byell P-39N-0-BE Aerokobru (Pokryshkin's)
 p-39n_su_1;▂ P-39N
@@ -3383,38 +3264,38 @@ p-39q_15_shop;▂ P-39Q-15
 p-39q_15_0;Byell P-39Q-15-BE Aerokobru
 p-39q_15_1;▂ P-39Q
 p-39q_15_2;▂ P-39
-p-40e_it_shop;▂ P-40E
-p-40e_it_0;Curtiss P-40E Kittyhawk
-p-40e_it_1;▂ P-40E
-p-40e_it_2;▂ P-40
-p-63a-10_it_shop;▂ P-63A-10
-p-63a-10_it_0;Byell P-63A-10 Kingcobra
-p-63a-10_it_1;▂ P-63A
-p-63a-10_it_2;▂ P-63
-p-63a-5_it_shop;▂ P-63A-5
-p-63a-5_it_0;Byell P-63A-5 Kingcobra
-p-63a-5_it_1;▂ P-63A
-p-63a-5_it_2;▂ P-63
-p-63c-5_it_shop;▂ P-63C-10
-p-63c-5_it_0;Byell P-63C-10 Kingcobra
-p-63c-5_it_1;▂ P-63C
-p-63c-5_it_2;▂ P-63
-fw-190d-9_it_shop;▂ FV 190D-9
-fw-190d-9_it_0;Fokkye-Vul'fu FV 190D-9
-fw-190d-9_it_1;▂ FV 190D
-fw-190d-9_it_2;▂ FV 190
-hurricanemkii_it_shop;▂ Kharrikyejna Mk. IIb (ShVAK)
-hurricanemkii_it_0;Khoukyer Kharrikyejna Mk. IIb (ShVAK)
-hurricanemkii_it_1;▂ Kharrikyejna Mk. II
-hurricanemkii_it_2;▂ Kharrikyejna
-spitfire_ix_it_shop;▂ Spitfire Mk. IXc
-spitfire_ix_it_0;Supermarine Spitfire Mk. IXc
-spitfire_ix_it_1;▂ Spitfire Mk. IX
-spitfire_ix_it_2;▂ Spitfire
-p-47d_it_shop;▂ P-47D-27
-p-47d_it_0;Ripablic P-47D-27-RE Tandyerbolt
-p-47d_it_1;▂ P-47D
-p-47d_it_2;▂ P-47
+p-40e_ussr_shop;▂ P-40E
+p-40e_ussr_0;Curtiss P-40E Kittyhawk
+p-40e_ussr_1;▂ P-40E
+p-40e_ussr_2;▂ P-40
+p-63a-10_ussr_shop;▂ P-63A-10
+p-63a-10_ussr_0;Byell P-63A-10 Kingcobra
+p-63a-10_ussr_1;▂ P-63A
+p-63a-10_ussr_2;▂ P-63
+p-63a-5_ussr_shop;▂ P-63A-5
+p-63a-5_ussr_0;Byell P-63A-5 Kingcobra
+p-63a-5_ussr_1;▂ P-63A
+p-63a-5_ussr_2;▂ P-63
+p-63c-5_ussr_shop;▂ P-63C-10
+p-63c-5_ussr_0;Byell P-63C-10 Kingcobra
+p-63c-5_ussr_1;▂ P-63C
+p-63c-5_ussr_2;▂ P-63
+fw-190d-9_ussr_shop;▂ FV 190D-9
+fw-190d-9_ussr_0;Fokkye-Vul'fu FV 190D-9
+fw-190d-9_ussr_1;▂ FV 190D
+fw-190d-9_ussr_2;▂ FV 190
+hurricanemkii_ussr_shop;▂ Kharrikyejna Mk. IIb (ShVAK)
+hurricanemkii_ussr_0;Khoukyer Kharrikyejna Mk. IIb (ShVAK)
+hurricanemkii_ussr_1;▂ Kharrikyejna Mk. II
+hurricanemkii_ussr_2;▂ Kharrikyejna
+spitfire_ix_ussr_shop;▂ Spitfire Mk. IXc
+spitfire_ix_ussr_0;Supermarine Spitfire Mk. IXc
+spitfire_ix_ussr_1;▂ Spitfire Mk. IX
+spitfire_ix_ussr_2;▂ Spitfire
+p-47d_ussr_shop;▂ P-47D-27
+p-47d_ussr_0;Ripablic P-47D-27-RE Tandyerbolt
+p-47d_ussr_1;▂ P-47D
+p-47d_ussr_2;▂ P-47
 
 
 ussr_BLUEWATER_FLEET;
@@ -3554,8 +3435,6 @@ ussr_cruiser_shcherbakov_shop;Shcherbakov
 ussr_cruiser_shcherbakov_0;Proyekt 68-bis | Logkiy Kreyser, Shcherbakov, 1965 project
 ussr_cruiser_shcherbakov_1;Shcherbakov
 ussr_cruiser_shcherbakov_2; Logkiy Kreyser
-
-
 
 ussr_aircraftcarrier_baku_shop;Baku
 ussr_aircraftcarrier_baku_0;Proyekt 11434 Avianesushchiy Kreyser, Baku, 1990
@@ -7718,21 +7597,21 @@ shop/group/n1k2_group;N1K
 
 JAPAN_BLUEWATER_FLEET;
 jp_destroyer_mutsuki_shop;Mutsuki
-jp_destroyer_mutsuki_0;F-41E3, Mutsuki-gata Kuchikukan, Mutsuki, 1935
+jp_destroyer_mutsuki_0;F-41E3 | Mutsuki-gata Kuchikukan, Mutsuki, 1935
 jp_destroyer_mutsuki_1;Mutsuki
 jp_destroyer_mutsuki_2;Kuchikukan
-jp_destroyer_mutsuki_EC_0;F-41E3, Mutsuki-gata Kuchikukan, Mutsuki, 1935
+jp_destroyer_mutsuki_EC_0;F-41E3 | Mutsuki-gata Kuchikukan, Mutsuki, 1935
 jp_destroyer_mutsuki_EC_1;Mutsuki
 jp_destroyer_mutsuki_EC_2;Kuchikukan
 jp_destroyer_fubuki_shop;Ayanami
-jp_destroyer_fubuki_0;F-43, Fubuki-gata Toku-gata Kuchikukan II-gata, Ayanami, 1936
+jp_destroyer_fubuki_0;F-43 | Fubuki-gata Toku-gata Kuchikukan II-gata, Ayanami, 1936
 jp_destroyer_fubuki_1;Ayanami
 jp_destroyer_fubuki_2;Toku-gata Kuchikukan
-jp_destroyer_fubuki_EC_0;F-43, Fubuki-gata Kuchikukan II-gata, Ayanami, 1936
+jp_destroyer_fubuki_EC_0;F-43 | Fubuki-gata Kuchikukan II-gata, Ayanami, 1936
 jp_destroyer_fubuki_EC_1;Ayanami
 jp_destroyer_fubuki_EC_2;Kuchikukan
 jp_destroyer_satsuki_shop;Satsuki
-jp_destroyer_satsuki_0;F-41E3, Mutsuki-gata Kuchikukan, Satsuki, 1935
+jp_destroyer_satsuki_0;F-41E3 | Mutsuki-gata Kuchikukan, Satsuki, 1935
 jp_destroyer_satsuki_1;Satsuki
 jp_destroyer_satsuki_2;Kuchikukan
 jp_destroyer_harukaze_shop;Harukaze
@@ -7743,31 +7622,31 @@ jp_destroyer_yugumo_shop;Yūgumo
 jp_destroyer_yugumo_0;F-50, Yūgumo-gata Kō-gata Kuchikukan, Yūgumo, 1942
 jp_destroyer_yugumo_1;Yūgumo
 jp_destroyer_yugumo_2;Kō-gata Kuchikukan
-jp_destroyer_yugumo_EC_0;F-50, Yūgumo-gata Kō-gata Kuchikukan, Yūgumo, 1942
+jp_destroyer_yugumo_EC_0;F-50 | Yūgumo-gata Kō-gata Kuchikukan, Yūgumo, 1942
 jp_destroyer_yugumo_EC_1;Yūgumo
 jp_destroyer_yugumo_EC_2;Kō-gata Kuchikukan
 jp_destroyer_hatsuharu_shop;Hatsuharu
-jp_destroyer_hatsuharu_0;F-45A, Hatsuharu-gata Kuchikukan, Hatsuharu, 1933
+jp_destroyer_hatsuharu_0;F-45A | Hatsuharu-gata Kuchikukan, Hatsuharu, 1933
 jp_destroyer_hatsuharu_1;Hatsuharu
 jp_destroyer_hatsuharu_2;Kuchikukan
 jp_destroyer_nenohi_shop;Nenohi
-jp_destroyer_nenohi_0;F-45A, Hatsuharu-gata Kuchikukan, Nenohi, 1942
+jp_destroyer_nenohi_0;F-45A | Hatsuharu-gata Kuchikukan, Nenohi, 1942
 jp_destroyer_nenohi_1;Nenohi
 jp_destroyer_nenohi_2;Kuchikukan
 jp_destroyer_yugure_shop;JDS Yūgure
-jp_destroyer_yugure_0;Ariake-gata Goeikan, Japanese Defense Ship Yūgure (DD-184), 1960
+jp_destroyer_yugure_0;Ariake-gata Goeikan | Japanese Defense Ship Yūgure (DD-184), 1960
 jp_destroyer_yugure_1;Yūgure
 jp_destroyer_yugure_2;Kuchikukan
 
 jp_destroyer_hayanami_shop;Hayanami
-jp_destroyer_hayanami_0;F-50, Yūgumo-gata Kuchikukan, Hayanami, 1944
+jp_destroyer_hayanami_0;F-50 | Yūgumo-gata Kuchikukan, Hayanami, 1944
 jp_destroyer_hayanami_1;Hayanami
 jp_destroyer_hayanami_2;Kuchikukan
 jp_destroyer_akizuki_shop;Akizuki
-jp_destroyer_akizuki_0;F-51A, Akizuki-gata Otsu-gata Kuchikukan, Akizuki, 1944
+jp_destroyer_akizuki_0;F-51A | Akizuki-gata Otsu-gata Kuchikukan, Akizuki, 1944
 jp_destroyer_akizuki_1;Akizuki
 jp_destroyer_akizuki_2;Otsu-gata Kuchikukan
-jp_destroyer_akizuki_EC_0;F-51A, Akizuki-gata Otsu-gata Kuchikukan, Akizuki, 1944
+jp_destroyer_akizuki_EC_0;F-51A | Akizuki-gata Otsu-gata Kuchikukan, Akizuki, 1944
 jp_destroyer_akizuki_EC_1;Akizuki
 jp_destroyer_akizuki_EC_2;Otsu-gata Kuchikukan
 jp_cruiser_kako_shop;Kako
@@ -7782,31 +7661,31 @@ jp_cruiser_isuzu_0;Nagara-gata Keijun'yōkan, Isuzu, 1944
 jp_cruiser_isuzu_1;Isuzu
 jp_cruiser_isuzu_2;Keijun'yōkan
 jp_cruiser_kuma_shop;Kuma
-jp_cruiser_kuma_0;C-33, Kuma-gata Keijun'yōkan, Kuma, 1941
+jp_cruiser_kuma_0;C-33 | Kuma-gata Keijun'yōkan, Kuma, 1941
 jp_cruiser_kuma_1;Kuma
 jp_cruiser_kuma_2;Keijun'yōkan
-jp_cruiser_kuma_EC_0;C-33, Kuma-gata Keijun'yōkan, Kuma, 1941
+jp_cruiser_kuma_EC_0;C-33 | Kuma-gata Keijun'yōkan, Kuma, 1941
 jp_cruiser_kuma_EC_1;Kuma
 jp_cruiser_kuma_EC_2;Keijun'yōkan
 jp_cruiser_yubari_shop;Yūbari
-jp_cruiser_yubari_0;F-42, Yūbari-gata Keijun'yōkan, Yūbari, 1944
+jp_cruiser_yubari_0;F-42 | Yūbari-gata Keijun'yōkan, Yūbari, 1944
 jp_cruiser_yubari_1;Yūbari
 jp_cruiser_yubari_2;Keijun'yōkan
 jp_destroyer_shimakaze_shop;Shimakaze
-jp_destroyer_shimakaze_0;F-52, Shimakaze-gata Hei-gata Kuchikukan, Shimakaze, 1944
+jp_destroyer_shimakaze_0;F-52 | Shimakaze-gata Hei-gata Kuchikukan, Shimakaze, 1944
 jp_destroyer_shimakaze_1;Shimakaze
 jp_destroyer_shimakaze_2;Hei-gata Kuchikukan
 jp_destroyer_yuudachi_shop;Yūdachi
-jp_destroyer_yuudachi_0;F-45D, Shiratsuyu gata Kuchikukan, Yūdachi, 1942
+jp_destroyer_yuudachi_0;F-45D | Shiratsuyu gata Kuchikukan, Yūdachi, 1942
 jp_destroyer_yuudachi_1;Yūdachi
 jp_destroyer_yuudachi_2;Kuchikukan
 jp_destroyer_hatsuzuki_shop;Hatsuzuki
-jp_destroyer_hatsuzuki_0;F-51A, Akizuki-gata Otsu-gata Kuchikukan, Hatsuzuki, 1944
+jp_destroyer_hatsuzuki_0;F-51A | Akizuki-gata Otsu-gata Kuchikukan, Hatsuzuki, 1944
 jp_destroyer_hatsuzuki_1;Hatsuzuki
 jp_destroyer_hatsuzuki_2;Kuchikukan
 
 jp_destroyer_kiyoshimo_shop;Kiyoshimo
-jp_destroyer_kiyoshimo_0;F-50, Yūgumogata Kuchikukan, Kiyoshimo, 1944
+jp_destroyer_kiyoshimo_0;F-50 | Yūgumogata Kuchikukan, Kiyoshimo, 1944
 jp_destroyer_kiyoshimo_1;Kiyoshimo
 jp_destroyer_kiyoshimo_2;Kuchikukan
 jp_cruiser_furutaka_shop;Furutaka
@@ -7821,14 +7700,14 @@ jp_cruiser_aoba_0;Aoba-gata Jūjun'yōkan, Aoba, 1945
 jp_cruiser_aoba_1;Aoba
 jp_cruiser_aoba_2;Jūjun'yōkan
 jp_cruiser_sendai_shop;Sendai
-jp_cruiser_sendai_0;C-33, Sendai-gata Keijun'yōkan, Sendai, 1937
+jp_cruiser_sendai_0;C-33 | Sendai-gata Keijun'yōkan, Sendai, 1937
 jp_cruiser_sendai_1;Sendai
 jp_cruiser_sendai_2;Keijun'yōkan
 jp_cruiser_agano_shop;Agano
-jp_cruiser_agano_0;C-41-II, Agano-gata Keijun'yōkan, Agano, 1943
+jp_cruiser_agano_0;C-41-II | Agano-gata Keijun'yōkan, Agano, 1943
 jp_cruiser_agano_1;Agano
 jp_cruiser_agano_2;Keijun'yōkan
-jp_cruiser_agano_EC_0;C-41-II, Agano-gata Keijun'yōkan, Agano, 1943
+jp_cruiser_agano_EC_0;C-41-II | Agano-gata Keijun'yōkan, Agano, 1943
 jp_cruiser_agano_EC_1;Agano
 jp_cruiser_agano_EC_2;Keijun'yōkan
 jp_cruiser_myoko_shop;Myoko
@@ -7836,99 +7715,99 @@ jp_cruiser_myoko_0;Myoko-gata Jūjun'yōkan, Myoko, 1944
 jp_cruiser_myoko_1;Myoko
 jp_cruiser_myoko_2;Jūjun'yōkan
 jp_cruiser_mogami_mikuma_shop;Mikuma
-jp_cruiser_mogami_mikuma_0;C-37, Mogami-gata Jūjun'yōkan, Mikuma, 1938
+jp_cruiser_mogami_mikuma_0;C-37 | Mogami-gata Jūjun'yōkan, Mikuma, 1938
 jp_cruiser_mogami_mikuma_1;Mikuma
 jp_cruiser_mogami_mikuma_2;Jūjun'yōkan
 
 jp_cruiser_tone_shop;Tone
-jp_cruiser_tone_0;C-38, Tone-gata Jūjun'yōkan, Tone, 1945
+jp_cruiser_tone_0;C-38 | Tone-gata Jūjun'yōkan, Tone, 1945
 jp_cruiser_tone_1;Tone
 jp_cruiser_tone_2;Jūjun'yōkan
 jp_battleship_settsu_shop;Settsu
-jp_battleship_settsu_0;A-30, Kawachi-gata Senkan, Settsu, 1912
+jp_battleship_settsu_0;A-30 | Kawachi-gata Senkan, Settsu, 1912
 jp_battleship_settsu_1;Settsu
 jp_battleship_settsu_2;Senkan
 jp_battleship_fuso_shop;Fuso
-jp_battleship_fuso_0;A-64, Fuso-gata Senkan, Fuso, 1944
+jp_battleship_fuso_0;A-64 | Fuso-gata Senkan, Fuso, 1944
 jp_battleship_fuso_1;Fuso
 jp_battleship_fuso_2;Senkan
 jp_cruiser_mogami_suzuya_shop;Suzuya
-jp_cruiser_mogami_suzuya_0;C-37, Mogami-gata Jūjun'yōkan, Suzuya, 1937
+jp_cruiser_mogami_suzuya_0;C-37 | Mogami-gata Jūjun'yōkan, Suzuya, 1937
 jp_cruiser_mogami_suzuya_1;Suzuya
 jp_cruiser_mogami_suzuya_2;Jūjun'yōkan
 jp_cruiser_mogami_shop;Mogami
-jp_cruiser_mogami_0;C-37, Mogami-gata Jūjun'yōkan, Mogami, 1940
+jp_cruiser_mogami_0;C-37 | Mogami-gata Jūjun'yōkan, Mogami, 1940
 jp_cruiser_mogami_1;Mogami
 jp_cruiser_mogami_2;Jūjun'yōkan
 jp_battleship_hyuga_shop;Hyūga
-jp_battleship_hyuga_0;A-92, Ise-gata Senkan, Hyūga, 1920
+jp_battleship_hyuga_0;A-92 | Ise-gata Senkan, Hyūga, 1920
 jp_battleship_hyuga_1;Hyūga
 jp_battleship_hyuga_2;Senkan
 jp_armoredcruiser_ikoma_shop;Ikoma
-jp_armoredcruiser_ikoma_0;B-12, Tsukuba-gata Sōkōjun Yōsenkan, Ikoma, 1912
+jp_armoredcruiser_ikoma_0;B-12 | Tsukuba-gata Sōkōjun Yōsenkan, Ikoma, 1912
 jp_armoredcruiser_ikoma_1;Ikoma
 jp_armoredcruiser_ikoma_2;Sōkōjun Yōsenkan
 jp_armoredcruiser_kurama_shop;Kurama
-jp_armoredcruiser_kurama_0;B-12, Ibuki-gata Sōkōjun Yōsenkan, Kurama, 1918
+jp_armoredcruiser_kurama_0;B-12 | Ibuki-gata Sōkōjun Yōsenkan, Kurama, 1918
 jp_armoredcruiser_kurama_1;Kurama
 jp_armoredcruiser_kurama_2;Sōkōjun Yōsenkan
 jp_battlecruiser_kongo_shop;Kongō
-jp_battlecruiser_kongo_0;B-46, Kongō-gata Jun Yōsenkan, Kongō, 1944
+jp_battlecruiser_kongo_0;B-46 | KonGō-Gata Jun Yōsenkan, Kongō, 1944
 jp_battlecruiser_kongo_1;Kongō
 jp_battlecruiser_kongo_2;Jun Yōsenkan
 jp_battlecruiser_haruna_shop;Haruna
-jp_battlecruiser_haruna_0;B-46, Kongō-gata Jun Yōsenkan, Haruna, 1945
+jp_battlecruiser_haruna_0;B-46 | KonGō-Gata Jun Yōsenkan, Haruna, 1945
 jp_battlecruiser_haruna_1;Haruna
 jp_battlecruiser_haruna_2;Jun Yōsenkan
 
 unic_soryu;Sōryū
-unic_soryu_0;G-9 Sōryū-Gata Kōkū bokan, Sōryū, 1942
+unic_soryu_0;G-9 | Sōryū-Gata Kōkū bokan, Sōryū, 1942
 unic_soryu_1;Sōryū
 unic_soryu_2;Kōkū bokan
 ships/ijn_cv_soryu_0;Sōryū
-ships/ijn_cv_soryu_1;G-9 Sōryū-Gata Kōkū bokan, Sōryū, 1942
+ships/ijn_cv_soryu_1;G-9  |  Sōryū-Gata Kōkū bokan, Sōryū, 1942
 ships/ijn_cv_soryu_2;Kōkū bokan
 ships/ijn_cv_soryu_story_0;Sōryū
-ships/ijn_cv_soryu_story_1;G-9 Sōryū-Gata Kōkū bokan, Sōryū, 1942
+ships/ijn_cv_soryu_story_1;G-9  |  Sōryū-Gata Kōkū bokan, Sōryū, 1942
 ships/ijn_cv_soryu_story_2;Kōkū bokan
 unic_hiryu;Hiryū
-unic_hiryu_0;G-10 Hiryū-Gata Kōkū bokan, Hiryū, 1942
+unic_hiryu_0;G-10 | Hiryū-Gata Kōkū bokan, Hiryū, 1942
 unic_hiryu_1;Hiryū
 unic_hiryu_2;Kōkū bokan
 unic_kaga;Kaga
-unic_kaga_0;A-G1 Kaga-Gata Kōkū bokan, Kaga, 1942
+unic_kaga_0;A-G1 | Kaga-Gata Kōkū bokan, Kaga, 1942
 unic_kaga_1;Kaga
 unic_kaga_2;Kōkū bokan
 unic_akagi;Akagi
-unic_akagi_0;B-G1 Akagi-Gata Kōkū bokan, Akagi, 1942
+unic_akagi_0;B-G1 | Akagi-Gata Kōkū bokan, Akagi, 1942
 unic_akagi_1;Akagi
 unic_akagi_2;Kōkū bokan
 ships/ijn_cv_akagi_0;Akagi
-ships/ijn_cv_akagi_1;B-G1 Akagi-Gata Kōkū bokan, Akagi, 1942
+ships/ijn_cv_akagi_1;B-G1 | Akagi-Gata Kōkū bokan, Akagi, 1942
 ships/ijn_cv_akagi_2;Carrier
 ships/ijn_cv_akagi_story_0;Akagi
-ships/ijn_cv_akagi_story_1;B-G1 Akagi-Gata Kōkū bokan, Akagi, 1942
+ships/ijn_cv_akagi_story_1;B-G1 | Akagi-Gata Kōkū bokan, Akagi, 1942
 ships/ijn_cv_akagi_story_2;Kōkū bokan
 unic_shokaku;Shōkaku
-unic_shokaku_0;G-11 Shōkaku-Gata Kōkū bokan, Shōkaku, 1942
+unic_shokaku_0;G-11 | Shōkaku-Gata Kōkū bokan, Shōkaku, 1942
 unic_shokaku_1;Shōkaku
 unic_shokaku_2;Carrier
 unic_zuikaku;Zuikaku
-unic_zuikaku_0;G-11 Shōkaku-Gata Kōkū bokan, Zuikaku, 1942
+unic_zuikaku_0;G-11 | Shōkaku-Gata Kōkū bokan, Zuikaku, 1942
 unic_zuikaku_1;Zuikaku
 unic_zuikaku_2;Kōkū bokan
 ships/ijn_cv_zuikaku_story_0;Zuikaku
-ships/ijn_cv_zuikaku_story_1;G-11 Shōkaku-Gata Kōkū bokan, Zuikaku, 1942
+ships/ijn_cv_zuikaku_story_1;G-11 | Shōkaku-Gata Kōkū bokan, Zuikaku, 1942
 ships/ijn_cv_zuikaku_story_2;Kōkū bokan
 ships/ijn_cv_zuikaku_0;Zuikaku
-ships/ijn_cv_zuikaku_1;G-11 Shōkaku-Gata Kōkū bokan, Zuikaku, 1942
+ships/ijn_cv_zuikaku_1;G-11 | Shōkaku-Gata Kōkū bokan, Zuikaku, 1942
 ships/ijn_cv_zuikaku_2;Kōkū bokan
 unic_zuiho;Zuihō
-unic_zuiho_0;Zuihō-Gata Kōkū bokan, Zuihō, 1942
+unic_zuiho_0;Zuihō-Gata | Kōkū bokan, Zuihō, 1942
 unic_zuiho_1;Zuihō
 unic_zuiho_2;Kōkū bokan
 unic_shoho;Shōhō
-unic_shoho_0;Zuihō-Gata Kōkū bokan, Shōhō, 1942
+unic_shoho_0;Zuihō-Gata | Kōkū bokan, Shōhō, 1942
 unic_shoho_1;Shōhō
 unic_shoho_2;Kōkū bokan
 
@@ -7990,111 +7869,111 @@ jp_cargo_ship_kashino_EC_2;Unsōkan
 
 JAPAN_COASTAL_FLEET;
 jp_t14_class_shop;T-14 №540
-jp_t14_class_0;T-14, Dai-538 Gō-Gata Gyorai-Tei, Dai 540-gō, 1945
+jp_t14_class_0;T-14 | Dai-538 Gō-Gata Gyoraitei, Dai 540-Gō, 1945
 jp_t14_class_1;T-14 №540
-jp_t14_class_2;Motor Torpedo Boat
-jp_type5_escortboat_shop;Kei-tei Kō
-jp_type5_escortboat_0;5-Shiki Kokusei dai Goei-Tei, Kei-tei Kō, 1946 project
-jp_type5_escortboat_1;Kei-tei Kō
-jp_type5_escortboat_2;Escort boat
+jp_t14_class_2;Gyoraitei
+jp_type5_escortboat_shop;Keitei Kō
+jp_type5_escortboat_0;5-Shiki Mokusei Dai Goeitei Otsu, Keitei Kō, 1946 project
+jp_type5_escortboat_1;Keitei Kō
+jp_type5_escortboat_2;Goeitei
 jp_type_t1_1941_shop;T-1 №2
-jp_type_t1_1941_0;T-1, Dai-1 Gō-Gata Gyorai-Tei, Dai 2-gō, 1941
+jp_type_t1_1941_0;T-1 | Dai-1 Gō-Gata Gyoraitei, Dai 2-Gō, 1941
 jp_type_t1_1941_1;T-1 №2
-jp_type_t1_1941_2;Motor Torpedo Boat
+jp_type_t1_1941_2;Gyoraitei
 jp_abtei_pr1_shop;Sakigake
-jp_abtei_pr1_0;Soukou-Tei, Sakigake (Dai 1-gō), 1924
+jp_abtei_pr1_0;Dai 1-Gō Sōkōtei, Sakigake, 1924
 jp_abtei_pr1_1;Sakigake
-jp_abtei_pr1_2;Armored Boat
+jp_abtei_pr1_2;Sōkōtei
 jp_t14_class_mod01_shop;T-14 №891
-jp_t14_class_mod01_0;T-14, Dai-538 Gō-Gata Gyorai-Tei, Dai 891-gō, 1945
+jp_t14_class_mod01_0;T-14 | Dai-538 Gō-Gata Gyoraitei, Dai 891-Gō, 1945
 jp_t14_class_mod01_1;T-14 №891
-jp_t14_class_mod01_2;Motor Torpedo Boat
+jp_t14_class_mod01_2;Gyoraitei
 
-jp_karotei_type2_shop;Ka-Rō Model 2
-jp_karotei_type2_0;Type 4 Model 2 Sub-Chaser, Ka-Rō Dai 2 Katashiki, 1944
-jp_karotei_type2_1;Type 4 Model 2
-jp_karotei_type2_2;Subchaser
+jp_karotei_type2_shop;Ka-Ro №2
+jp_karotei_type2_0;Ka-Ro Dai 2-katashiki Kuchikutei, Dai 2-katashiki, 1944
+jp_karotei_type2_1;Ka-Ro Dai 2
+jp_karotei_type2_2;Kuchikutei
 jp_sehatei_mod1_shop;Se-Ha
-jp_sehatei_mod1_0;Experimental Ha-Gō Fighting Boat 1-Kata, Se-Ha, 1944
-jp_sehatei_mod1_1;Ha-Gō Fighting Boat
-jp_sehatei_mod1_2;Armored boat
-jp_abtei_pr4_shop;Soukou-Tei №4
-jp_abtei_pr4_0;Soukou-Tei, Dai 4-gō, 1935
-jp_abtei_pr4_1;Soukou-Tei №4
-jp_abtei_pr4_2;River Armored Boat
+jp_sehatei_mod1_0;Shisei Ha-Gō Sentōtei 1-Gata, Se-Ha, 1944
+jp_sehatei_mod1_1;Se-Ha
+jp_sehatei_mod1_2;Sentōtei
+jp_abtei_pr4_shop;Sōkōtei №4
+jp_abtei_pr4_0;Dai 4-gō Sōkōtei, Dai 4-Gō, 1935
+jp_abtei_pr4_1;Sōkōtei №4
+jp_abtei_pr4_2;Sōkōtei
 jp_type38_1944_shop;T-38 №259
-jp_type38_1944_0;T-38, Dai 241 Gō-Gata Gyorai-Tei, Dai 259-gō, 1944
+jp_type38_1944_0;T-38 | Dai 241 Gō-Gata Gyoraitei, Dai 259-Gō, 1944
 jp_type38_1944_1;T-38 №259
-jp_type38_1944_2;Motor Torpedo Boat
-jp_kusen_tei_13_1942_shop;CH-15
-jp_kusen_tei_13_1942_0;K-8, Dai 13 Gō-gata Kusentei, CH-15, 1942
-jp_kusen_tei_13_1942_1;CH-15
-jp_kusen_tei_13_1942_2;Subchaser
-jp_karotei_type4_shop;Ka-Rō Model 4
-jp_karotei_type4_0;Type 4 Model 4 Sub-Chaser, Ka-Rō Boat 4th Model (1944)
-jp_karotei_type4_1;Type 4 Model 4
-jp_karotei_type4_2;Subchaser
+jp_type38_1944_2;Gyoraitei
+jp_kusen_tei_13_1942_shop;K-8 №15
+jp_kusen_tei_13_1942_0;K-8 | Dai 13 Gō-Gata Kusentei, Dai 15-Gō, 1942
+jp_kusen_tei_13_1942_1;K-8 №15
+jp_kusen_tei_13_1942_2;Kusentei
+jp_karotei_type4_shop;Ka-Ro №4
+jp_karotei_type4_0;Ka-Ro Dai 4-katashiki Kuchikutei, Dai 4-Katashiki, 1945
+jp_karotei_type4_1;Ka-Ro Dai 2
+jp_karotei_type4_2;Kuchikutei
 
-jp_kusen_tei_13_1944_shop;CH-33
-jp_kusen_tei_13_1944_0;K-8B, Dai 60 Gō-Gata Kusentei, CH-33, 1944
-jp_kusen_tei_13_1944_1;CH-33
+jp_kusen_tei_13_1944_shop;K-8B №33
+jp_kusen_tei_13_1944_0;K-8B, Dai 60 Gō-Gata Kusentei, Dai 33-Gō, 1944
+jp_kusen_tei_13_1944_1;K-8B №33
 jp_kusen_tei_13_1944_2;Kusentei
 jp_t51b_shop;T-51b №17
-jp_t51b_0;T-51b, Dai 11 Gō-Gata Gyorai-Tei, Dai 17-go, 1944
+jp_t51b_0;T-51b | Dai 11 Gō-Gata Gyoraitei, Dai 17-Gō, 1944
 jp_t51b_1;T-51b №17
-jp_t51b_2;Gyorai-Tei
-jp_no1_ch2_shop;CH-2
-jp_no1_ch2_0;K-3, Dai 1 Gō-Gata Kusentei, CH-2, 1944
-jp_no1_ch2_1;CH-2
+jp_t51b_2;Gyoraitei
+jp_no1_ch2_shop;K-3 №2
+jp_no1_ch2_0;K-3 | Dai 1 Gō-Gata Kusentei, Dai 2-Gō, 1944
+jp_no1_ch2_1;K-3 №2
 jp_no1_ch2_2;Kusentei
-jp_no4_ch8_shop;CH-5
-jp_no4_ch8_0;K-7, Dai 4 Gō-Gata Kusentei, CH-6, 1944
-jp_no4_ch8_1;CH-5
+jp_no4_ch8_shop;K-7 №5
+jp_no4_ch8_0;K-7 | Dai 4 Gō-Gata Kusentei, Dai 5-Gō, 1944
+jp_no4_ch8_1;K-7 №5
 jp_no4_ch8_2;Kusentei
 jp_type7_pt808_shop;PT-7
-jp_type7_pt808_0;PT-7 Gō-Gata Gyorai-Tei, PT-7 (PT-808), 1958
+jp_type7_pt808_0;PT-7 Gō-Gata Gyoraitei, Patrol Torpedo 7 (PT-808), 1958
 jp_type7_pt808_1;PT-7
-jp_type7_pt808_2;Gyorai-Tei
-jp_t51a_shop;T-51a №20
-jp_t51a_0;T-51a, Dai 10 Gō-Gata Gyorai-Tei, №10, 1943
-jp_t51a_1;T-51a №20
-jp_t51a_2;Gyorai-Tei
+jp_type7_pt808_2;Gyoraitei
+jp_t51a_shop;T-51a №10
+jp_t51a_0;T-51a | Dai 10 Gō-Gata Gyoraitei, Dai 10-Gō, 1943
+jp_t51a_1;T-51a №10
+jp_t51a_2;Gyoraitei
 
 jp_type_11_pt_15_shop;PT-15
-jp_type_11_pt_15_0;PT-11 Gō-gata Gyorai-tei, Gyorai-tei Patrol Torpedo PT-15 (PT-815), 1979
+jp_type_11_pt_15_0;PT-11 Gō-Gata Gyoraitei, Patrol Torpedo 15 (PT-815), 1979
 jp_type_11_pt_15_1;PT-15
-jp_type_11_pt_15_2;Motor Torpedo Boat
+jp_type_11_pt_15_2;Gyoraitei
 jp_escort_ikazuchi_class_shop;JDS Ikazuchi
-jp_escort_ikazuchi_class_0;E-102, Ikazuchi-Gata Goeikan, Japanese Defense Ship Ikazuchi (DE-202), 1960
+jp_escort_ikazuchi_class_0;E-102 | Ikazuchi-Gata Goeikan, Japanese Defense Ship Ikazuchi (DE-202), 1960
 jp_escort_ikazuchi_class_1;JDS Ikazuchi
 jp_escort_ikazuchi_class_2;Destroyer Escort
 jp_escort_chikugo_class_shop;JDS Chikugo
-jp_escort_chikugo_class_0;E-106, Chikugo-Gata Goeikan, Japanese Defense Ship Chikugo (DE-215), 1975
+jp_escort_chikugo_class_0;E-106 | Chikugo-Gata Goeikan, Japanese Defense Ship Chikugo (DE-215), 1975
 jp_escort_chikugo_class_1;JDS Chikugo
 jp_escort_chikugo_class_2;Destroyer Escort
 jp_escort_akebono_class_shop;JDS Akebono
-jp_escort_akebono_class_0;E-101, Akebono-Gata Goeikan, Japanese Defense Ship Akebono (DE-201), 1960
+jp_escort_akebono_class_0;E-101 | Akebono-Gata Goeikan, Japanese Defense Ship Akebono (DE-201), 1960
 jp_escort_akebono_class_1;JDS Akebono
 jp_escort_akebono_class_2;Destroyer Escort
 jp_pg02_shop;PG-2
-jp_pg02_0;M-201, PG-1 Gō-gata Misairu-tei, Misairu-tei Patrol Gun PG-2 (PG-822), 1998
+jp_pg02_0;M-201 | PG-1 Gō-Gata Misairutei, Patrol Gun 2 (PG-822), 1998
 jp_pg02_1;PG-2
-jp_pg02_2;Misairu-tei
+jp_pg02_2;Misairutei
 
 jp_escort_hiburi_class_syonan_shop;Shōnan
-jp_escort_hiburi_class_syonan_0;E-20C, Hiburi-gata Kaibōkan, Shōnan, 1944
+jp_escort_hiburi_class_syonan_0;E-20C | Hiburi-gata Kaibōkan, Shōnan, 1944
 jp_escort_hiburi_class_syonan_1;Shōnan
 jp_escort_hiburi_class_syonan_2;Escort ship
 jp_destroyer_chidori_shop;Chidori
-jp_destroyer_chidori_0;F-46, Chidori-gata Suiraitei, Chidori, 1945
+jp_destroyer_chidori_0;F-46 | Chidori-gata Suiraitei, Chidori, 1945
 jp_destroyer_chidori_1;Chidori
 jp_destroyer_chidori_2;Motor Torpedo Boat
 jp_destroyer_isuzu_shop;JDS Isuzu
-jp_destroyer_isuzu_0;E-103, Isuzu-gata Goeikan, Japanese Defense Ship Isuzu (DE-211), 1970
+jp_destroyer_isuzu_0;E-103 | Isuzu-gata Goeikan, Japanese Defense Ship Isuzu (DE-211), 1970
 jp_destroyer_isuzu_1;Isuzu
 jp_destroyer_isuzu_2;Destroyer Escort
 jp_destroyer_ayanami_shop;JDS Ayanami
-jp_destroyer_ayanami_0;F-102, Ayanami-gata Goeikan, Japanese Defence Ship Ayanami (DD-103), 1959
+jp_destroyer_ayanami_0;F-102 | Ayanami-gata Goeikan, Japanese Defence Ship Ayanami (DD-103), 1959
 jp_destroyer_ayanami_1;Ayanami Class
 jp_destroyer_ayanami_2;Frigate
 
@@ -11452,10 +11331,6 @@ ju-52_shop;Ju 52
 ju-52_0;Junkers Ju 52/3m "Tante Ju"
 ju-52_1;Ju 52
 ju-52_2;Ju 52
-dummy_plane_shop;...
-dummy_plane_0;...
-dummy_plane_1;...
-dummy_plane_2;...
 
 
 FOOTBALL;
@@ -11611,9 +11486,8 @@ us_m18_hellcat_black_cat_race_shop;Black Cheetah
 us_m18_hellcat_black_cat_race_0;Black Cheetah
 us_m18_hellcat_black_cat_race_1;Black Cheetah
 us_m18_hellcat_black_cat_race_2;SPG
-
 it_pzkpfw_III_ausf_E_race_shop;Pz III E
-it_pzkpfw_III_ausf_E_race_0;Panzerkampfwagen III Ausfürung E (Sd.Kfz. 141)
+it_pzkpfw_III_ausf_E_race_0;Panzerkampfwagen III Ausfürung E
 it_pzkpfw_III_ausf_E_race_1;Pz. III E
 it_pzkpfw_III_ausf_E_race_2;Medium tank
 uk_t17e2_race_shop;RT-1
@@ -11621,27 +11495,17 @@ uk_t17e2_race_0;RT-1
 uk_t17e2_race_1;RT-1
 uk_t17e2_race_2;RT-1
 uk_a17_mk_1_tetrarch_race_shop;Tetrarch Mk. I
-uk_a17_mk_1_tetrarch_race_0;Light Tank Mk. VII, A.17, Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_race_0;A17 | Light Tank Mk. VII, Tetrarch Mk. I
 uk_a17_mk_1_tetrarch_race_1;Tetrarch Mk. I
 uk_a17_mk_1_tetrarch_race_2;Light tank
-
-
 germ_pzkpfw_III_ausf_E_race_shop;Pz III E
-germ_pzkpfw_III_ausf_E_race_0;Panzerkampfwagen III Ausfürung E (Sd.Kfz. 141)
+germ_pzkpfw_III_ausf_E_race_0;Panzerkampfwagen III Ausfürung E
 germ_pzkpfw_III_ausf_E_race_1;Pz. III E
 germ_pzkpfw_III_ausf_E_race_2;Medium tank
 us_m18_hellcat_black_cat_race_shop;Black Cheetah
 us_m18_hellcat_black_cat_race_0;Black Cheetah
 us_m18_hellcat_black_cat_race_1;Black Cheetah
 us_m18_hellcat_black_cat_race_2;SPG
-
-YoutubeCup;
-
-us_t32_tutorial_shop;T32
-us_t32_tutorial_0;Heavy Tank, T32
-us_t32_tutorial_1;T32
-us_t32_tutorial_2;Heavy tank
-
 
 
 RECON_DRONE
