@@ -1,0 +1,805 @@
+USA_GUNS
+
+USA_CANNONS
+
+USA_LAUNCHERS
+
+USA_LAUNCHER_CANNONS
+
+USA_BULLETS
+
+USA_SHELLS
+
+USA_ROCKETS
+
+USA_AIR_TO_AIR_MISSILE
+
+USA_AIR_TO_GROUND_MISSILE
+
+USA_SURFACE_TO_AIR_MISSILE
+
+USA_ANTI_TANK_GUIDED_MISSILE
+
+USA_DUMB_BOMBS
+
+USA_GUIDED BOMBS
+
+USA_INCENDIARY_BOMBS
+
+USA_RETARTED_BOMBS
+
+USA_TORPEDOS
+
+USA_OTHER
+
+GERMANY_GUNS
+
+GERMANY_CANNONS
+
+GERMANY_LAUNCHERS
+
+GERMANY_LAUNCHER_CANNONS
+
+GERMANY_BULLETS
+
+GERMANY_SHELLS
+
+GERMANY_ROCKETS
+
+GERMANY_AIR_TO_AIR_MISSILE
+
+GERMANY_AIR_TO_GROUND_MISSILE
+
+GERMANY_SURFACE_TO_AIR_MISSILE
+
+GERMANY_ANTI_TANK_GUIDED_MISSILE
+
+GERMANY_DUMB_BOMBS
+
+GERMANY_GUIDED BOMBS
+
+GERMANY_INCENDIARY_BOMBS
+
+GERMANY_RETARTED_BOMBS
+
+GERMANY_TORPEDOS
+
+GERMANY_OTHER
+
+USSR_GUNS
+
+USSR_CANNONS
+
+USSR_LAUNCHERS
+
+USSR_LAUNCHER_CANNONS
+
+USSR_BULLETS
+
+USSR_SHELLS
+
+USSR_ROCKETS
+
+USSR_AIR_TO_AIR_MISSILE
+
+USSR_AIR_TO_GROUND_MISSILE
+
+USSR_SURFACE_TO_AIR_MISSILE
+
+USSR_ANTI_TANK_GUIDED_MISSILE
+
+USSR_DUMB_BOMBS
+
+USSR_GUIDED BOMBS
+
+USSR_INCENDIARY_BOMBS
+
+USSR_RETARTED_BOMBS
+
+USSR_TORPEDOS
+
+USSR_OTHER
+
+GREAT_BRITAIN_GUNS
+
+GREAT_BRITAIN_CANNONS
+
+GREAT_BRITAIN_LAUNCHERS
+
+GREAT_BRITAIN_LAUNCHER_CANNONS
+
+GREAT_BRITAIN_BULLETS
+
+GREAT_BRITAIN_SHELLS
+
+GREAT_BRITAIN_ROCKETS
+
+GREAT_BRITAIN_AIR_TO_AIR_MISSILE
+
+GREAT_BRITAIN_AIR_TO_GROUND_MISSILE
+
+GREAT_BRITAIN_SURFACE_TO_AIR_MISSILE
+
+GREAT_BRITAIN_ANTI_TANK_GUIDED_MISSILE
+
+GREAT_BRITAIN_DUMB_BOMBS
+
+GREAT_BRITAIN_GUIDED BOMBS
+weapons/fr_mk18;Bomb, 1000lb, GP, MK 18 MOD 0 (LGB Paveway)
+weapons/fr_mk18/short;Paveway
+weapons/fr_mk13;Bomb, 1000lb, GP, MK 13 MOD 0 (LGB Paveway)
+weapons/fr_mk13/short;Mk.13 Paveway II
+
+GREAT_BRITAIN_INCENDIARY_BOMBS
+
+GREAT_BRITAIN_RETARTED_BOMBS
+
+GREAT_BRITAIN_TORPEDOS
+
+GREAT_BRITAIN_OTHER
+
+JAPAN_GUNS
+
+JAPAN_CANNONS
+
+JAPAN_LAUNCHERS
+
+JAPAN_LAUNCHER_CANNONS
+
+JAPAN_BULLETS
+
+JAPAN_SHELLS
+
+JAPAN_ROCKETS
+
+JAPAN_AIR_TO_AIR_MISSILE
+
+JAPAN_AIR_TO_GROUND_MISSILE
+
+JAPAN_SURFACE_TO_AIR_MISSILE
+
+JAPAN_ANTI_TANK_GUIDED_MISSILE
+
+JAPAN_DUMB_BOMBS
+
+JAPAN_GUIDED BOMBS
+
+JAPAN_INCENDIARY_BOMBS
+
+JAPAN_RETARTED_BOMBS
+
+JAPAN_TORPEDOS
+
+JAPAN_OTHER
+
+CHINA_GUNS
+weapons/cnd_12_7_additionalpod_gun;12.7mm Qiāng Jī Kōng QJK99-1 Aviation Machine Gun
+weapons/gun_qjk_99_12_7_1;12.7mm Qiāng Jī Kōng QJK99-1 Aviation Machine Gun
+weapons/cannonType_23_1;23mm Type 23-1 Aviation Cannon
+weapons/cannonType_23_1_plane;23mm Type 23-1 Aviation Cannon
+weapons/cannon_type23_2k;23mm Type 23-2K Aviation Cannon
+weapons/cannonType_23_3;23mm Type 23-3 Aviation Cannon
+weapons/cannonType_23L;23mm Type 23L Aviation Cannon
+weapons/cannonType30_1;30mm Type 30-1 Aviation Cannon
+
+CHINA_CANNONS
+weapons/25mm_PG87_PGZ_user_cannon;25mm PG-87 Anti-Aircraft Gun
+weapons/25mm_PG87_user_cannon;PG-87 25mm Anti-Aircraft Gun
+weapons/35mm_PG_99_35_2_user_cannon;35mm PG-99 Anti-Aircraft Gun
+weapons/57mm_WA_318_user_cannon;57mm WA318 | PG-59 Anti-Aircraft Gun
+weapons/85mm_Type_62_85_TC_user_cannon;85mm ZPL-62 Rifled Tank Gun
+weapons/100mm_Type59_user_cannon;100mm ZPL-59 Rifled Tank Gun
+weapons/105mm_Type_83_user_cannon;105mm ZPL-83 Rifled Tank Gun
+weapons/105mm_ZPL94_user_cannon;105mm ZPL-94 Rifled Tank Gun
+weapons/105mm_AT_WMA_user_cannon;105mm ZPL-98A Rifled Tank Gun
+weapons/105mm_ZPL_98A_user_cannon;105mm ZPL-98A Rifled Tank Gun
+weapons/100mm_Type69_user_cannon;100mm ZPT-69 Smoothbore Tank Gun
+weapons/100mm_Type69_II_user_cannon;100mm ZPT-69-2 Smoothbore Tank Gun
+weapons/125mm_Type_88C_user_cannon;125mm ZPT-88C Smoothbore Tank Gun
+weapons/125mm_ZPT_98_user_cannon;125mm ZPT-98 Smoothbore Tank Gun
+weapons/125mm_Type_99A_user_cannon;125mm ZPT-98A Smoothbore Tank Gun
+weapons/125mm_l54_cn_user_cannon;125mm ZPT-98A L/54 Smoothbore Tank Gun
+weapons/100mm_PTP86_user_cannon;100mm PTP-86 Smoothbore -Tank Gun
+weapons/120mm_PTZ89_user_cannon;120mm PTP-89 Smoothbore Tank Gun
+weapons/120mm_122TM_user_cannon;120mm ZPT-71 Smoothbore Tank Gun
+weapons/76mm_M32K1_user_cannon;76mm M32K1
+
+CHINA_LAUNCHERS
+weapons/70mm_QN201DD_rocket_launcher;QN201DD ATGM Launcher
+weapons/72mm_HN_6_launcher_user_cannon;HN-6 AAM Launcher
+weapons/120mm_302_atgm_rocket_launcher;302 ATGM Launcher
+weapons/125mm_hj_73_rocket_launcher;Hóng Jiàn-73 Launcher
+weapons/125mm_AFT_07_rocket_launcher;Hóng Jiàn-73E Launcher
+weapons/151mm_QN502CDD_rocket_launcher;QN502CDD ATGM Launcer
+
+CHINA_LAUNCHER_CANNONS
+weapons/152mm_hj_9_launcher_user_cannon;Hóng Jiàn-9 Launcher
+weapons/152mm_hj_9_launcher_user_cannon/short;HJ-9 Launcher
+
+CHINA_SHELLS
+85mm_type1956;DTP-56
+100mm_type1959;DTW-59
+100mm_type1973;DTP-73
+type_44_ap;Type 44 AP
+type_44_he;Type 44 HE
+105mm_TYPE83_APDS;DTW-83
+105mm_TYPE83_HEAT;DTP-83
+105mm_TYPE83_HESH;DTN-83
+105mm_dtb_1_he;DTB-1
+105mm_gp_105;GP105
+100mm_dyw_pt_86_100;DYW
+120mm_dyw_1;DYW-1
+120mm_dys_120;DYS-120
+120mm_122tm_steel;APFSDS (steel)
+120mm_122tm_he;HEF-FS
+120mm_122tm_tungsten;APFSDS (tungsten)
+120mm_122tm_heat;HEAT
+125mm_dtp_125;DTP-125
+125mm_dtb_125;DTB-125
+125mm_dtw_125;DTW-125
+125mm_125_1;DTC-125-1
+125mm_dtc_10_125;125-I
+125mm_GP125;GP-125
+125mm_dtb_12_he;DTB12-125
+
+CHINA_ROCKETS
+weapons/cn_hf5_rocket;Type 57-1
+weapons/cn_hf5_rocket/short;Type 57-1
+weapons/cn_fs_70;Fire Snake FS-70
+weapons/cn_fs_70/short;FS-70
+weapons/cn_type90_heat;Type 90-1 HEAT
+weapons/cn_type90_heat/short;Type 90-1 HEAT
+weapons/cn_type90_he;Type 90-1 HE
+weapons/cn_type90_he/short;Type 90-1 HE
+weapons/cn_type130_ap;Type 130-2
+weapons/cn_type130_ap/short;Type 130-2
+
+
+CHINA_AIR_TO_AIR_MISSILE
+weapons/su_pl2;EOTDC Pīlì PL-2
+weapons/su_pl2/short;PL-2
+weapons/su_pl5b;EOTDC Pīlì PL-5B
+weapons/su_pl5b/short;PL-5B
+weapons/su_pl5b_default;EOTDC Pīlì PL-5B
+weapons/su_pl5b_default/short;PL-5B
+weapons/su_pl7;EOTDC Pīlì PL-7
+weapons/su_pl7/short;PL-7
+weapons/su_pl8;EOTDC Pīlì PL-8
+weapons/su_pl8/short;PL-8
+weapons/cn_pl11;EOTDC Pīlì PL-11
+weapons/cn_pl11/short;PL-11
+weapons/cn_ty-90;AVIC Tiān Yàn TY-90
+weapons/cn_ty-90/short;TY-90
+
+CHINA_AIR_TO_GROUND_MISSILE
+weapons/cn/adk_9;Norinco AKD-9
+weapons/cn/adk_9/short;AKD-9
+weapons/cn/adk_9_default;Norinco AKD-9
+weapons/cn/adk_9_default/short;AKD-9
+weapons/cn/adk_10;Norinco AKD-10
+weapons/cn/adk_10/short;AKD-10
+weapons/cn_ba_9;Norinco Blue Arrow 9
+weapons/cn_ba_9/short;BA-9
+weapons/cn_hj_8a;Norinco Hóng Jiàn 8A
+weapons/cn_hj_8a/short;HJ-8A
+weapons/cn_hj_8C;Norinco Hóng Jiàn 8C
+weapons/cn_hj_8C/short;HJ-8C
+weapons/cn_hj_8E;Norinco Hóng Jiàn 8E
+weapons/cn_hj_8E/short;HJ-8E
+weapons/cn_hj_8H;Norinco Hóng Jiàn 8H
+weapons/cn_hj_8H/short;HJ-8H
+weapons/cn_hj_8l;Norinco Hóng Jiàn 8L
+weapons/cn_hj_8l/short;HJ-8L
+weapons/cn_hj_9;Norinco Hóng Jiàn 9
+weapons/cn_hj_9/short;HJ-9
+
+CHINA_SURFACE_TO_AIR_MISSILE
+72mm_hn_6;Hóng Yīng-6
+
+CHINA_ANTI_TANK_GUIDED_MISSILE
+atgm_302;302 fǎn tǎnkè dǎodàn
+70mm_QN201DD;QN-201DD
+151mm_QN502CDD;QN-502CDD
+152mm_hj9;Hóng Yīng-9
+weapons/cn_hj_73;Hóng Jiàn-73
+weapons/cn_hj_73E;Hóng Jiàn-73E
+
+CHINA_DUMB_BOMBS
+weapons/china_250kg_mk82;
+weapons/china_250kg_mk82/short;
+weapons/su_ofab250_olive;Type 250-2
+weapons/su_ofab250_olive/short;Type 250-2
+weapons/cn_gp_250_4;Type 250-4
+weapons/cn_gp_250_4/short;Type 250-4
+weapons/cn_gp_250_3;Type 250-3
+weapons/cn_gp_250_3/short;Type 250-3
+weapons/cn_gp_500_3;Type 500-3
+weapons/cn_gp_500_3/short;500-3
+weapons/cn_gp_500_4/short;Type 500-4
+weapons/cn_gp_500_4;Type 500-4
+
+CHINA_GUIDED BOMBS
+weapons/cn_ts_250j;TS-250
+weapons/cn_ts_250j/short;TS-250
+weapons/cn_ls_500j;Léi-shí LS-500
+weapons/cn_ls_500j/short;LS-500
+
+CHINA_INCENDIARY_BOMBS
+
+CHINA_RETARTED_BOMBS
+
+CHINA_TORPEDOS
+
+CHINA_OTHER
+weapons/cn_k_pzs_01_targeting_pod;K/PSZ-01
+weapons/cn_k_pzs_01_targeting_pod/short;K/PSZ-01 
+
+ITALY_GUNS
+
+ITALY_CANNONS
+
+ITALY_LAUNCHERS
+weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon;Spike Long Range II
+weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon/short;Spike-LR II
+weapons/110mm_Spike_freccia_rocket_launchr_user_cannon;Spike Medium Range
+weapons/110mm_Spike_freccia_rocket_launchr_user_cannon/short;Spike-MR
+
+ITALY_LAUNCHER_CANNONS
+
+ITALY_BULLETS
+
+ITALY_SHELLS
+120mm_m322;CL3143
+
+ITALY_ROCKETS
+
+ITALY_AIR_TO_AIR_MISSILE
+
+ITALY_AIR_TO_GROUND_MISSILE
+
+ITALY_SURFACE_TO_AIR_MISSILE
+
+ITALY_ANTI_TANK_GUIDED_MISSILE
+
+ITALY_DUMB_BOMBS
+
+ITALY_GUIDED BOMBS
+
+ITALY_INCENDIARY_BOMBS
+
+ITALY_RETARTED_BOMBS
+
+ITALY_TORPEDOS
+
+ITALY_OTHER
+
+ITALY_LAUNCHERS
+
+
+FRANCE_GUNS
+weapons/7_5mm_MAC_31_user_machinegun;7,5mm MAC Modèle 1931E
+weapons/gunMAC34;7,5mm MAC Modèle 1934
+weapons/gunMAC34_turret;7,5mm MAC Modèle 1934
+weapons/gunMAC34T_turret;7,5mm MAC Modèle 1934T
+weapons/gunMAC39;7,5mm MAC Modèle 1934 M39
+weapons/gunDarne23;7,5mm Darne Modèle 1923
+weapons/gunDarne23_turret;7,5mm Darne Modèle 1923
+weapons/gunMle33;7,5mm Darne Modèle 1933
+weapons/gunMle33_turret;7,5mm Darne Modèle 1933
+weapons/gunDarne33;7,5mm Darne Modèle 1933
+weapons/gunMle38;7,5mm Fabrique Nationale FN Modèle 1938
+weapons/gunBrowningFN_french;7,5mm Mitrailleuse d'Avion FN-Browning
+weapons/7_5mm_AAT_52_user_machinegun;7,5mm AAT-52
+weapons/7_62mm_AAN_F1_user_machinegun;7,62mm AAN-F1N
+weapons/13_2mm_Hotchkiss_Mle_1930_user_machinegun;13.2mm Hotchkiss Modèle 1930
+weapons/gunMAC39_turret;7,5mm MAC Modèle 1934 M39
+weapons/cannonHispano_hs9;Canon de 20mm Hispano-Suiza Tipo 9
+weapons/cannonHispano_hs825;Cannone 30mm Hispano-Suiza da 825
+weapons/cannonHispano_hs825/short;Hispano-Suiza 825
+weapons/cannonHispano404;20mm Hispano-Suiza HS.404
+weapons/cannonHispano404_turret;20mm Hispano-Suiza HS.404
+weapons/cannonHispanoMkI;20mm Hispano Mk. I
+weapons/cannonHispanoMkII;20mm Hispano Mk. II
+weapons/cannonHispanoMkII_tutorial;20mm Hispano Mk. II
+weapons/cannonHispanoMkII_tutorial/short;Hispano Mk.II
+weapons/cannonHispanoMkV;20mm Hispano Mk. V
+weapons/cannonHispanoMkV_turret;20mm Hispano Mk. V
+weapons/cannonM50;20mm Hispano-Suiza HS.404 M.50
+weapons/cannonDEFA541;30mm DEFA 541
+weapons/cannonDEFA551;30mm DEFA 551
+weapons/cannonDEFA552;30mm DEFA 552
+weapons/cannonDEFA552A;30mm DEFA 552a
+weapons/cannonDEFA553;30mm DEFA 553
+weapons/cannonDEFA553_gunpod;30mm DEFA 553 (gunpod)
+weapons/cannonDEFA554;C30mm DEFA 554
+weapons/20mm_M_693_user_cannon;20mm GIAT M693
+weapons/cannonGLAT_M621;20mm GIAT M621
+weapons/cannonGIAT_type_30_M781;30mm GIAT M781
+weapons/cannonGIAT_type_30_M781/short;GIAT M781
+weapons/30mm_HSS_831A_user_cannon;30mm HSS 831A
+weapons/30mm_HSS_831L_user_cannon;30mm HSS 831L
+weapons/40mm_Mle51_t1_user_cannon;40mm T1 Modèle 51
+weapons/13_2mm_76_type93_naval_user_machinegun;13,2mm Hotchkiss Modèle 1929
+weapons/13_2mm_hotchkiss_naval_user_machinegun;13,2mm Hotchkiss Modèle 1930
+weapons/47mm_qf3pdr_hotchkiss_naval_user_cannon;47mm ROQF 3-pdr Hotchkiss
+
+FRANCE_CANNONS
+weapons/25mm_SA_34_user_cannon;25mm SA34 L/47(Canon de 25mm Semi Automatique Modèle 1934)
+weapons/37mm_SA_18_user_cannon;37mm SA18 L/51(Canon de 37mm Semi Automatique Modèle 1918)
+weapons/37mm_SA_38_user_cannon;37mm SA38 (Canon de 37mm Semi Automatique Modèle 1938)
+weapons/47mm_SA_34_user_cannon;47mm SA34 (Canon de 47mm Semi Automatique Modèle 1934)
+weapons/47mm_SA_35_user_cannon;47mm SA35 (Canon de 47mm Semi Automatique Modèle 1935)
+weapons/47mm_SA_37_user_cannon;47mm SA37 (Canon de 47mm Semi Automatique Modèle 1937)
+weapons/75mm_SA_46_user_cannon;75mm SA44 (Canon de 75mm Semi Automatique Modèle 1944)
+weapons/75mm_SA_49_user_cannon;75mm SA49 (Canon de 75mm Semi Automatique Modèle 1949)
+weapons/75mm_SA_50_user_cannon;75mm SA50 L/57 (Canon de 75mm Semi Automatique modèle 1950)
+weapons/75mm_SA_50_M4A4_user_cannon;75mm SA50 L/75 | Canon de 75 mm Semi Automatique modèle 1950
+weapons/75mm_SA_35_user_cannon;75mm SA35 L/17 (Canon de 75mm Semi Automatique modèle 1935)
+weapons/75mm_APX_user_cannon;Canon de 75mm APX Modèle 1929
+weapons/90mm_SA45_ARL_user_cannon;90mm SA 45 (Canon de 90mm Semi Automatique modèle 1949)
+weapons/90mm_SA45_user_cannon;90mm SA 45 (Canon de 90mm Semi Automatique modèle 1949)
+weapons/90mm_Char_25t_user_cannon;90mm Canon de 90mm D.911 APX
+weapons/90mm_D915_user_cannon;90mm D.915 | DEFA canon de 90mm D.915
+weapons/90mm_DEFA_D921_user_cannon;90mm D.921 | CN90F1 (Canon de 90mm modèle F1)
+weapons/90mm_90_F2_user_cannon;90mm D.924 | CN90F2 (Canon de 90mm modèle F2 )
+weapons/90mm_CN_90_F2_user_cannon;90mm D.924 | CN90F2 (Canon de 90mm modèle F2)
+weapons/90mm_CN_90_F3_user_cannon;90mm D.960 | CN90F3 (Canon de 90mm modèle F3)
+weapons/90mm_CN_90_F4_user_cannon;"90mm CS 90 | CN90F4 (Canon de 90mm modèle F4) ""Super 90"""
+weapons/100mm_SA_47_CA_user_cannon;100mm SA 47 (Canon de 100mm Semi Automatique Modèle 1947) (L/58)
+weapons/100mm_SA_47_user_cannon;100mm SA 47 (Canon de 100mm Semi Automatique Modèle 1947) (L/58)
+weapons/105mm_CN_105_57_user_cannon;105mm D.1504 | CN105/57 (Canon de 105/57)
+weapons/105mm_CN_105_F1_user_cannon;105mm D.1512 | CN105F1 (Canon de 105mm modèle F1)
+weapons/105mm_Modele_F2_user_cannon;105mm CN105F2 (Canon de 105mm modèle F2)
+weapons/105mm_CN_105_G2_user_cannon;105mm CN105G2 (Canon de 105mm modèle G2)
+weapons/105mm_M_51_user_cannon;105mm CN105D1 (Canon de 105mm modèle D1)
+weapons/120mm_SA_46_user_cannon;120mm SA 46 (Canon de 120mm Semi Automatique Modèle 1946)
+weapons/120mm_SA_46_Surbaisse_user_cannon;120mm SA 46 | Canon de 120mm Semi Automatique Modèle 1946
+weapons/120mm_Schneider_Canet_1898_user_cannon;C120mm anon de 120mm Schneider-Canet Mle. 1898
+weapons/120mm_GIAT_CN120_25_G1_user_cannon;120mm CN120-26 G1 (Canon de 120mm Modèle G1)
+weapons/120mm_GIAT_CN120_26_F1_user_cannon;120mm CN120-25 F1 (Canon de 120mm Modèle F1)
+weapons/142mm_ACRA_user_cannon;Canon de 142mm ACRA | Anti-Char Rapide Autopropulsé
+weapons/155mm_Schneider_155_C_user_cannon;155mm C17S (Canon de 155mm C modèle 1917 Schneider)
+weapons/155mm_Obusier_Modele_1950_user_cannon;155mm Obusier de 155mm Modèle 1950
+
+FRANCE_LAUNCHERS
+weapons/90mm_atam_mistral_rocket_launcher;"Matra Missile Transportable Anti-aérien Léger ""Mistral"" Sol-Air à Très Courte Portée"
+weapons/90mm_atam_mistral_rocket_launcher/short;Mistral SATCP
+weapons/136mm_HOT_rocket_launcher;Euromissile HOT ATGM
+weapons/136mm_HOT_rocket_launcher/short;HOT
+weapons/136mm_k3s_hot_rocket_launcher;Euromissile HOT-K3S
+weapons/136mm_k3s_hot_rocket_launcher/short;HOT-K3S
+weapons/163mm_roland_rocket_launcher;Euromissile Roland 1
+weapons/163mm_roland_rocket_launcher/short;Roland 1
+weapons/163mm_roland_3_rocket_launcher;Euromissile Roland 3
+weapons/163mm_roland_3_rocket_launcher/short;Roland 3
+weapons/164mm_nord_s11_rocket_launcher;Nord missile sol-sol SS.11
+weapons/164mm_nord_s11_rocket_launcher/short;SS.11
+weapons/164mm_lfk_ss11_rocket_launcher;Nord Lenkflugkörper SS.11
+weapons/164mm_lfk_ss11_rocket_launcher/short;SS.11
+weapons/164mm_s11_rocket_launcher;Nord Robot 52
+weapons/164mm_s11_rocket_launcher/short;Rb 52
+
+FRANCE_LAUNCHER_CANNONS
+weapons/136mm_mephisto_launcher_user_cannon;"Module Élévateur Panoramique Hot Installé Sur Tourelle Orientable ""Mephisto"""
+weapons/90mm_atam_mistral_user_cannon;Mistral Sol-Air à Très Courte Portée
+weapons/163mm_vt_1_launcher_user_cannon;Crotale New Generation
+weapons/163mm_roland_launcher_user_cannon;Roland
+weapons/163mm_roland_vt_1_launcher_user_cannon;Roland
+weapons/164mm_lfk_ss11_rocket_launcher_user_cannon;Nord Lenkflugkörper SS.11 Panzerabwehrlenkwaffe
+;
+FRANCE_BULLETS;
+;
+FRANCE_SHELLS;
+25mm_mle1934_tp_ch_f;balle Traceuse-Perforante Mle. 1934 à Charge Forte
+37mm_mle1892;37mm Mle. 1892
+37mm_mle1937;37mm Mle. 1937
+37mm_mle1938;Mle. 1938
+47mm_mle1892g;Mle. 1892G
+47mm_mle1935;Mle. 1935
+47mm_mle1935_he;Obus Explosif de 47mm Mle. 1935
+47mm_mle1936;Mle. 1936
+75mm_mle1915;Mle. 1915
+75mm_mle1910m;Mle. 1910M
+75mm_mle1917;Mle. 1917
+75mm_obus_de_rupture;Obus Rupture de 75mm Mle. 1944
+75mm_obus_explosif;Obus Explosif de 75mm Mle. 1928
+75mm_sa50_he;Obus explosif
+75mm_pot51a;75 POT-51A (75mm Perforant Ogive Traceur Modelé 1951 A)
+75mm_pcot51p;75 PCOT-51P (75mm Perforant Coiffé Ogive Traceur Modelé 1951 P)
+90mm_sa45_apc;90mm Obus perforant
+90mm_sa45_he;Obus Explosif
+90mm_occ_90_f2;Obus à Charge Creuse 90 F2
+90mm_ofum_90_f1;Obus de Fumée 90 F1
+90mm_ofl_f1;Obus-flèche 90 F1
+90mm_ofum_ph90;Obus de Fumée PH 90-F2
+90mm_oe_90_f1;Obus Explosif 90 F1
+90mm_occ_90_62;Obus à Charge Creuse 60-62
+100mm_sa47_apcbc;Obus Perforant
+100mm_sa47_he;Obus Explosif
+105mm_ofl_f3;Obus-flèche 105 F3
+105mm_occ_f3;Obus à Charge Creuse 105 F3
+105mm_o_fum_ph_f3;Obus de Fumée PH 105 F3
+105mm_oe_f3;Obus Explosif 105 F3
+105mm_occ_f1;Obus à Charge Creuse 105 F1
+105mm_ofl_105_f1;Obus-flèche 105 F1
+105mm_ofl_105_g1;Obus-flèche 105 G1
+105mm_oe_f1_mle60;Obus Explosif de 105mm F1 Mle. 1960
+105mm_ofph_f1;Obus de Fumée PH 105 F1
+120mm_obus_de_rupture;Obus de rupture
+120mm_obus_explosif;Obus explosif
+120mm_schneider_canet_common;Obus Perforant
+120mm_schneider_canet_he;Obus Explosif
+120mm_ofl_120_f1;Obus-flèche 120 F1
+120mm_occ_120_g1;Obus à Charge Creuse 120 G1
+120mm_ofl_120_g1;Obus-flèche 120 G1
+155mm_mle15;Mle. 1915
+;
+FRANCE_ROCKETS
+142mm_muc;MUC (Munition complémentaire)
+weapons/fr_sneb_37;TDA 37mm SNEB
+weapons/fr_sneb_37/short;37 SNEB
+weapons/fr_sneb_type23;TDA 68mm SNEB Type 23
+weapons/fr_sneb_type23/short;68 SNEB Type 23
+weapons/fr_sneb_type23_late;TDA 68mm SNEB Type 23
+weapons/fr_sneb_type23_late/short;68 SNEB Type 23
+weapons/fr_sneb_type23_md_460;TDA 68mm SNEB Type 23
+weapons/fr_sneb_type23_md_460/short;68 SNEB Type 23
+weapons/fr_sneb_type23_TDA;TDA 68mm SNEB Type 23
+weapons/fr_sneb_type23_TDA/short;68 SNEB Type 23
+weapons/fr_sneb_type23_expo;TDA 68mm SNEB Type 23
+weapons/fr_sneb_type23_expo/short;68 SNEB Type 23
+weapons/fr_sneb_type26;TDA 68mm SNEB Type 26P
+weapons/fr_sneb_type26/short;68 SNEB Type 26P
+weapons/fr_sneb_type26_TDA;TDA 68mm SNEB Type 26P
+weapons/fr_sneb_type26_TDA/short;68 SNEB Type 26P
+weapons/fr_tba_ecc;100 SNEB ECC
+weapons/fr_tba_ecc/short;TBA 100mm SNEB ECC
+weapons/fr_tba_multidart_ab;100 SNEB Multi-Dart ABL
+weapons/fr_tba_multidart_ab/short;TBA 100 SNEB Multi-Dart Anti Blindé Léger
+weapons/fr_fz49;Forges de Zeebrugge FZ68
+weapons/fr_fz49/short;FZ68
+weapons/fr_matra_t_10_121a;SERAM T.10 Tête 121a
+weapons/fr_matra_t_10_121a/short;T.10 121a
+weapons/fr_matra_t_10_121b;SERAM T.10 Tête 121b
+weapons/fr_matra_t_10_121b/short;T.10 121b
+weapons/fr_matra_t_10_140a;SERAM T.10 Tête 140a
+weapons/fr_matra_t_10_140a/short;T.10 140a
+weapons/fr_matra_t_10_140b;SERAM T.10 Tête 140b
+weapons/fr_matra_t_10_140b/short;T.10 140b
+weapons/fr_matra_t_10_151a;SERAM T.10 Tête 151a
+weapons/fr_matra_t_10_151a/short;T.10 151a
+weapons/fr_matra_t_10_151b;SERAM T.10 Tête 151b
+weapons/fr_matra_t_10_151b/short;T.10 151b
+;
+FRANCE_AIR_TO_AIR_MISSILE
+weapons/fr_aa20;Nord Air-Air AA.20
+weapons/fr_aa20/short;AA.20
+weapons/fr_r_511_matra;Matra R.511
+weapons/fr_r_511_matra/short;R.511
+weapons/fr_r_530_matra_radar;Matra R.530
+weapons/fr_r_530_matra_radar/short;R.530
+weapons/fr_r_530_matra_ir;Matra R.530E
+weapons/fr_r_530_matra_ir/short;R.530E
+weapons/fr_matra_super_530d;Matra Super 530D
+weapons/fr_matra_super_530d/short;Super 530D
+weapons/fr_matra_super_530f;Matra Super 530F
+weapons/fr_matra_super_530f/short;Super 530F
+weapons/fr_r_550_magic;Matra R550 Missile Auto-Guidé Interception et Combat 1
+weapons/fr_r_550_magic/short;R.550 Magic 1
+weapons/fr_r_550_magic_2;Matra R.550 Missile Auto-Guidé Interception et Combat 2
+weapons/fr_r_550_magic_2/short;Matra R550 Magic 2
+weapons/fr_r_550_magic_2_default;Matra R.550 Missile Auto-Guidé Interception et Combat 2
+weapons/fr_r_550_magic_2_default/short;R.550 Magic 2
+weapons/atam_mistral;MBDA Missile Transportable Anti-aérien Léger, Air to Air Missile
+weapons/atam_mistral/short;Mistral ATAM
+atam_mistral;Mistral ATAM
+
+FRANCE_AIR_TO_GROUND_MISSILE;
+weapons/fr_ss_11;Nord air-sol AS.11
+weapons/fr_ss_11/short;AS.11
+weapons/fr_as20;Nord air-sol AS.20
+weapons/fr_as20/short;AS.20
+weapons/fr_as30;Nord air-sol AS.30
+weapons/fr_as30/short;AS.30
+weapons/fr_as30l;Nord air-sol AS.30 Laser
+weapons/fr_as30l/short;AS.30L
+weapons/euro_hot_default;MBDA Haut subsonique Optiquement Téléguidé Tiré d'un Tube 1
+weapons/euro_hot_default/short;HOT-1
+weapons/euro_hot;MBDA Haut subsonique Optiquement Téléguidé Tiré d'un Tube 1
+weapons/euro_hot/short;HOT-1
+weapons/euro_hot2;MBDA Haut subsonique Optiquement Téléguidé Tiré d'un Tube 2
+weapons/euro_hot2/short;HOT-2
+weapons/euro_hot2;MBDA Haut subsonique Optiquement Téléguidé Tiré d'un Tube 3
+weapons/euro_hot3/short;HOT-3
+
+FRANCE_SURFACE_TO_AIR_MISSILE
+163mm_roland_1;Roland 1
+163mm_roland_3;Roland 3
+
+FRANCE_ANTI_TANK_GUIDED_MISSILE
+136mm_k3s_hot;HOT
+150mm_k3s_hot_2;HOT-2
+164mm_nord_ss11;SS.11
+164mm_lfk_ss_11;SS.11
+142mm_acra;ACRA (Anti-Char Rapide Autopropulsé)
+165mm_vt_1;VT1 SAM
+
+FRANCE_DUMB_BOMBS
+weapons/fr_50kg_gammn;50kg G.A.M.Mn
+weapons/fr_50kg_gammn/short;50kg G.A.M.Mn
+weapons/fr_50kg_dt2;Bombe de 50kgs DT №2
+weapons/fr_50kg_dt2/short;50kg DT №2
+weapons/fr_100kg;Bombe de 100 kgs №1
+weapons/fr_100kg/short;100kg №1
+weapons/fr_200kg;Bombe de 200kgs №1
+weapons/fr_200kg/short;200kg №1
+weapons/fr_500kg_3_1;Bombe de 500kgs №2
+weapons/fr_500kg_3_1/short;500kg №2
+weapons/fr_75kg_G2_Navale;75kg G2 Navale
+weapons/fr_75kg_G2_Navale/short;75kg G2 Navale
+weapons/fr_150kg_I2_navale;150kg I2 Navale
+weapons/fr_150kg_I2_navale/short;150kg I2 Navale
+weapons/fr_50kg_type_61c;Bomb, 100lb General Purpose, Army-Navy M30A1
+weapons/fr_50kg_type_61c/short;100lb AN-M30A1
+weapons/fr_750lb_m117_cone_90;Bomb, 750lb General Purpose, M117
+weapons/fr_750lb_m117_cone_90/short;750lb M117
+weapons/fr_750lb_m117_cone_45;Bomb, 750lb General Purpose, M117
+weapons/fr_750lb_m117_cone_45/short;750lb M117
+weapons/fr_130kg_samp_mk81;130kg SAMP 
+weapons/fr_130kg_samp_mk81/short;SAMP Bombes 130kg
+weapons/fr_250kg_samp_mk82;250kg SAMP EU2
+weapons/fr_250kg_samp_mk82/short;SAMP Bombes 250kg EU2
+weapons/fr_500kg_samp_mk83;SAMP Bombes 500kg T200
+weapons/fr_500kg_samp_mk83/short;500kg SAMP T200
+weapons/fr_1000kg_samp_mk84;SAMP Bombes 1000kg BL4
+weapons/fr_1000kg_samp_mk84/short;1000kg SAMP BL4
+weapons/fr_250_samp_type_25;250kg SAMP Type 25
+weapons/fr_250_samp_type_25/short;250kg SAMP Type 25
+weapons/fr_250_samp_type_25_default;250kg SAMP Type 25
+weapons/fr_250_samp_type_25_default/short;250kg SAMP Type 25
+weapons/fr_400_samp_type_21;400kg SAMP Type 21A
+weapons/fr_400_samp_type_21/short;400kg SAMP Type 21A
+
+FRANCE_GUIDED BOMBS;
+weapons/fr_bgl_400;Matra Bombe Guidée Laser de 400 kg
+weapons/fr_bgl_400/short;400 kg BGL 400
+weapons/fr_bgl_1000;Matra Bombe Guidée Laser de 1000 kg
+weapons/fr_bgl_1000/short;1000kg BGL 1000
+
+
+FRANCE_INCENDIARY_BOMBS;
+weapons/fr_460l_secan_63;460l SECAN 63
+weapons/fr_460l_secan_63/short;SECAN 63 de 630 litre
+
+FRANCE_RETARTED_BOMBS;
+weapons/fr_samp_mk_82_250_ldgp_snakeye;SAMP Bombe de 250kg BL EU2
+weapons/fr_samp_mk_82_250_ldgp_snakeye/short;250kg SAMP BL EU2
+
+weapons/fr_250_samp_type_25_200;SAMP Bombe de 250kg Type 25, Empennage SAMP Type 200
+weapons/fr_250_samp_type_25_200/short;250kg SAMP Type 25 200
+weapons/fr_400_samp_type_21_200;SAMP Bombe de 400kg Type 21A, Empennage SAMP Type 200
+weapons/fr_400_samp_type_21_200/short;400kg SAMP Type 21A 200
+
+FRANCE_TORPEDOS;
+weapons/fr_550mm_mod1923dt_torpedo;Torpille de 550mm Modelé 1923 DT
+weapons/fr_550mm_mod1923dt_torpedo/short;Mle. 1923 DT
+weapons/fr_400_mle_1926da_torpedo;Torpille de 400mm Modelé 1926 DA
+weapons/fr_400_mle_1926da_torpedo/short;Mle. 1926 DA
+
+FRANCE_MINES;
+weapons/fr_mine_b4m;Bréguet Modelé 4 Modifié
+weapons/fr_mine_b4m/short;B4M
+
+FRANCE_DEPTH_CHARGE
+weapons/depth_charge_fr_guiraud_100;Guiraud 100kg
+weapons/depth_charge_fr_guiraud_100/short;Guiraud 100kg
+
+FRANCE_OTHER
+weapons/mirage_3c_sepr_841_rocket;SEPR 841 Rocket booster
+weapons/mirage_3c_sepr_841_rocket/short;SEPR 841
+weapons/mirage_3c_sepr_844_rocket;SEPR 844
+weapons/mirage_3c_sepr_844_rocket/short;SEPR 844
+weapons/mirage_3c_fuel_tank_7_8;SEPR 841 Nitric Acid Pod
+weapons/mirage_3c_fuel_tank_7_8/short;
+weapons/mirage_3e_fuel_tank_7_8;SEPR 841 Nitric Acid Pod
+weapons/mirage_3e_fuel_tank_7_8/short;
+weapons/fr_1300l_rp522_mirage2000d_r1;RP522 1300 Litres Drop Tank
+weapons/fr_1300l_rp522_mirage_2000d_r1/short;1300l RP522
+weapons/fr_damocles_pod_targeting_pod;Thales DAMOCLES 3rd Generation Multi-Function Targeting Pod
+weapons/fr_damocles_pod_targeting_pod/short;DAMOCLES
+
+SWEDEN_GUNS
+weapons/gunKsp_m22;8mm ksp m/22
+
+SWEDEN_CANNONS
+weapons/cannonAkan_m55;30mm akan m/55
+weapons/cannonAkan_m55_underwing;30mm akan m/55
+weapons/cannonAkan_m75;30mm akan m/75
+SWEDEN_LAUNCHERS
+
+SWEDEN_LAUNCHER_CANNONS
+
+SWEDEN_BULLETS
+
+SWEDEN_SHELLS
+
+SWEDEN_ROCKETS
+
+SWEDEN_AIR_TO_AIR_MISSILE
+
+SWEDEN_AIR_TO_GROUND_MISSILE
+
+SWEDEN_SURFACE_TO_AIR_MISSILE
+
+SWEDEN_ANTI_TANK_GUIDED_MISSILE
+
+SWEDEN_DUMB_BOMBS
+
+SWEDEN_GUIDED BOMBS
+
+SWEDEN_INCENDIARY_BOMBS
+
+SWEDEN_RETARTED_BOMBS
+
+SWEDEN_TORPEDOS
+
+SWEDEN_OTHER
+
+ISRAEL_CANNONS
+weapons/105mm_L7_Shot_user_cannon;105mm Sharir L/52
+weapons/105mm_M68_Magach_user_cannon;105mm Gun, M68
+weapons/120mm_IMI_MG251_user_cannon;120mm IMI MG251
+
+ISRAEL_LAUNCHERS
+weapons/164mm_lfk_ss11_rocket_launcher_user_cannon;Tager
+weapons/70mm_FIM_92E_Stinger_Machbet_launcher_user_cannon;Stinger Weapon System, Quad Launcher
+weapons/70mm_Hydra_70_magach_user_cannon;M261-LWL
+
+ISRAEL_SHELLS
+105mm_m111;"IMI M111 ""Hetz-6"""
+105mm_imi_m156;IMI M156
+105mm_imi_m152;IMI M152
+120mm_m322_idf;IMI M322
+120mm_m325;IMI M325
+120mm_m339;IMI M339
+120mm_m338;IMI M338
+105mm_imi_m413;"IMI M413 ""Hetz-7"""
+105mm_imi_m426;"IMI M426 ""Hetz-10"""
+
+ISRAEL_AIR_TO_AIR_MISSILE
+weapons/il_shafrir_1;Rafael Shafrir
+weapons/il_shafrir_1/short;Shafrir
+weapons/il_shafrir_2;Rafael Shafrir 2
+weapons/il_shafrir_2/short;Shafrir 2
+weapons/il_shafrir_2_default;Rafael Shafrir 2
+weapons/il_shafrir_2_default/short;Shafrir 2
+weapons/il_python_3;Rafael Python 3
+weapons/il_python_3/short;Python 3
+weapons/il_python_4;Rafael Python 4
+weapons/il_python_4/short;Python 4
+
+ISRAEL_ANTI_TANK_GUIDED_MISSILE
+110mm_spike_mr;Spike Medium Range
+110mm_spike_lr2;Spike Long Range II
+
+ISRAEL_DUMB_BOMBS
+weapons/il_100_50_kg_gp;100/50 kg General Purpose
+weapons/il_250_50_kg_gp;250/50 kg General Purpose
+weapons/il_360_50_kg_gp;360/50 kg General Purpose
+weapons/il_500_50_kg_gp;500/50 kg General Purpose
+weapons/il_100_50_kg_gp/short;100/50 kg G.P.
+weapons/il_250_50_kg_gp/short;250/50 kg G.P.
+weapons/il_360_50_kg_gp/short;360/50 kg G.P.
+weapons/il_500_50_kg_gp/short;500/50 kg G.P.
+
+ISRAEL_INCENDIARY_BOMBS
+weapons/il_380l_mk2_fire_bomb;380l Mark II
+weapons/il_380l_mk2_fire_bomb/short;Mk. 2
+
+ISRAEL_OTHER
+weapons/il_600_gal_fuse_f_4;600 Gallon Drop tank
+weapons/il_600_gal_fuse_f_4/short;Drop tank
+
+SWISS_ROCKETS
+weapons/sws_oerlikon_oe82;Oerlikon-Bührle 8 cm Flugzeug-Rakete Oerlikon
+weapons/sws_oerlikon_oe82/short;8cm Flz.-Rakete
