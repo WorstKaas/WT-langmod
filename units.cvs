@@ -511,6 +511,8 @@ shop/group/us_sherman_76w_group;M4A2/ M4A3 (76)
 shop/group/us_m60_group;M60A1
 shop/group/us_m36_group;M36
 shop/group/us_m6_group;M6 / T1E1
+;
+;
 USA_HELICOPTERS;
 uh_1b_shop;UH-1B
 uh_1b_0;Bell Utility Helicopter UH-1B Iroquois "Huey"
@@ -568,9 +570,9 @@ ah_64d_shop;AH-64D
 ah_64d_0;Boeing Attack Helicopter AH-64D Apache Longbow
 ah_64d_1;AH-64D
 ah_64d_2;AH-64
+;
+;
 USA_AVIATION;
-MO				Glenn L. Maring Co. Ohama, Nebraska;
-MC				McDonnell Douglas St. Louis, Missouri;
 a-20g_shop;A-20G-25-DO
 a-20g_0;Douglas Attack 20G Block 25, Douglas Aircraft Co. Santa Monica, California Havoc
 a-20g_1;A-20G
@@ -918,6 +920,7 @@ f-104c_shop;F-104C-10-LO
 f-104c_0;Lockheed Fighter 104C, Starfighter Block 10 , Lockheed Burbank
 f-104c_1;F-104C
 f-104c_2;F-104
+;
 USN;
 douglas_ad_2_shop;AD-2
 douglas_ad_2_0;Douglas Attack AD-2 Skyraider
@@ -1180,6 +1183,7 @@ shop/group/f-104_group;F-104
 shop/group/f_16_group;F-16A
 shop/group/a_7_group;A-7
 shop/group/a_4b_group;A4D / FJ-4
+;
 TRI_SERVICE;
 douglas_a_1h_shop;A-1H
 douglas_a_1h_0;Douglas A-1H Skyraider
@@ -1277,6 +1281,7 @@ f_16c_block_50_shop;F-16C-15
 f_16c_block_50_0;Model 401 | General Dynamics F-16C Fighting Falcon Block 50
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
+;
 a6m2_zero_usa_shop;Zeke
 a6m2_zero_usa_0;Mitsubishi A6M2b Zeke Model 21 "Zero"
 a6m2_zero_usa_1;Zeke
@@ -1305,6 +1310,8 @@ md_460_usa_shop;▃ Super Mystère B2 ␙
 md_460_usa_0;Dassault MD.460 Super Mystère B2 ␙
 md_460_usa_1;▃ Super Mystère B2 ␙
 md_460_usa_2;▃ Super Mystère ␙
+;
+;
 USA_BLUEWATER_FLEET;
 us_destroyer_clemson_litchfield_shop;USS Litchfield
 us_destroyer_clemson_litchfield_0;Clemson-class Destroyer, United States Ship Litchfield (DD-336), 1936
@@ -1322,6 +1329,7 @@ us_destroyer_clemson_welborn_c_wood_shop;USS Welborn C. Wood
 us_destroyer_clemson_welborn_c_wood_0;Clemson-class Destroyer, United States Ship Welborn C. Wood (DD-195), 1936
 us_destroyer_clemson_welborn_c_wood_1;USS Welborn C. Wood
 us_destroyer_clemson_welborn_c_wood_2;Destroyer
+;
 II Rank;
 us_destroyer_sumner_shop;USS Allen M. Sumner
 us_destroyer_sumner_0;Allen M. Sumner-class Destroyer, United States Ship Allen M. Sumner (DD-692), 1944
@@ -1343,6 +1351,7 @@ us_destroyer_mitscher_wilkinson_shop;USS Wilkinson
 us_destroyer_mitscher_wilkinson_0;Mitscher-class Destroyer, United States Ship Wilkinson (DL-5), 1958
 us_destroyer_mitscher_wilkinson_1;USS Wilkinson
 us_destroyer_mitscher_wilkinson_2;Destroyer
+;
 III Rank;
 us_destroyer_porter_1941_shop;USS Porter
 us_destroyer_porter_1941_0;Porter-class Destroyer, United States Ship Porter (DD-356), 1941
@@ -1388,6 +1397,7 @@ us_cruiser_omaha_class_detroit_shop;USS Detroit
 us_cruiser_omaha_class_detroit_0;Omaha-class Light Cruiser, United States Ship Detroit (CL-8), 1942
 us_cruiser_omaha_class_detroit_1;USS Detroit
 us_cruiser_omaha_class_detroit_2;Light Cruiser
+;
 IV rank;
 us_cruiser_atlanta_class_atlanta_shop;USS Atlanta
 us_cruiser_atlanta_class_atlanta_0;Atlanta-class Light Cruiser, United States Ship Atlanta (CL-51), 1941
@@ -1417,6 +1427,7 @@ us_cruiser_des_moines_class_shop;USS Des Moines
 us_cruiser_des_moines_class_0;Des Moines-class Heavy Cruiser, United States Ship Des Moines (CA-134), 1948
 us_cruiser_des_moines_class_1;USS Des Moines
 us_cruiser_des_moines_class_2;Heavy Cruiser
+;
 V Rank;
 shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo / USS Brooklyn
 us_cruiser_fargo_class_shop;USS Fargo
@@ -1455,6 +1466,7 @@ us_cruiser_des_moines_class_newport_news_shop;USS Newport News
 us_cruiser_des_moines_class_newport_news_0;Des Moines Class Heavy Cruiser, United States Ship Newport News (CA-148), 1972
 us_cruiser_des_moines_class_newport_news_1;USS Des Moines
 us_cruiser_des_moines_class_newport_news_2;Heavy Cruiser
+;
 VI Rank;
 us_battleship_texas_shop;USS Texas
 us_battleship_texas_0;New York-class Battleship, United States Ship Texas (BB-35), 1945
@@ -1581,6 +1593,8 @@ ships/uss_bb_arizona_2;Battleship
 ships/uss_lcvp_light_0;Landing craft
 ships/uss_lcvp_light_1;Landing craft
 ships/uss_lcvp_light_2;Landing craft
+;
+;
 USA_COASTAL_FLEET;
 us_pt6_shop;USS PT-6
 us_pt6_0;Higgins 81' Class Patrol Torpedo Boat, United States Ship PT-6, 1941
@@ -1698,6 +1712,8 @@ us_cyclone_class_cyclone_shop;USS Cyclone
 us_cyclone_class_cyclone_0;Cyclone Class Patrol Boat, United States Ship Cyclone (PC-1), 1993
 us_cyclone_class_cyclone_1;USS Cyclone
 us_cyclone_class_cyclone_2;Patrol Boat
+;
+;
 USSR_ARMY;
 ussr_bt_5_shop;BT-5
 ussr_bt_5_0;Bystrokhodny Tank5 Obraztsa 1933 Goda "Betushka"
@@ -2361,6 +2377,8 @@ shop/group/ussr_t_64_group;T-64
 shop/group/ussr_bmp_1_group;BMP-1 / PT-85
 shop/group/ussr_bmp_2_group;BMP-2 / Ob'yekt 685
 shop/group/ussr_bmp_3_group;BMP-3 / 2S25
+;
+;
 USSR_HELICOPTERS;
 mi_4av_shop;Mi-4AV
 mi_4av_0;Mil Mi-4A Vooruzhenniy
@@ -2410,6 +2428,8 @@ ka_52_shop;Ka-52
 ka_52_0;Kamov Ka-52 "Alligator"
 ka_52_1;Ka-52
 ka_52_2;Ka-52
+;
+;
 USSR_AVIATION;
 shop/group/i-15_group;I-15
 i-15_1934_shop;I-15 (SGR-1820)
@@ -2489,10 +2509,12 @@ i_225_shop;I-225
 i_225_0;Mikoyan-Gurevich Istrebitel-225
 i_225_1;I-225
 i_225_2;I-225
+;
 lagg-i-301_shop;I-301
 lagg-i-301_0;Lavochkin-Gorbunov-Gudkov Istrebitel 301
 lagg-i-301_1;I-301
 lagg-i-301_2;I-301
+;
 shop/group/sb_group;SB
 sb_shop;SB
 sb_0;Tupolev SB
@@ -2530,30 +2552,37 @@ db_3b_shop;DB-3B
 db_3b_0;Ilyushin DB-3B
 db_3b_1;DB-3B
 db_3b_2;DB-3
+;
 tandem_mai_shop;Sh-Tandem
 tandem_mai_0;Moscow Aviation Institute Sh-Tandem
 tandem_mai_1;Sh-Tandem
 tandem_mai_2;Sh-Tandem
+;
 bi_shop;BI-1
 bi_0;Byeryeznyak-Isayev Blizhniy Istrebitel 1
 bi_1;BI-1
 bi_2;BI
+;
 mbr-2_shop;MBR-2bis
 mbr-2_0;Beriev Morskoy Blizhnii Razvedchik 2bis "Korova"
 mbr-2_1;MBR-2bis
 mbr-2_2;MBR-2
+;
 itp_m1_shop;ITP
 itp_m1_0;Polikarpov Istrebitel Tyazholiy Pushechniy
 itp_m1_1;ITP
 itp_m1_2;ITP
+;
 tis_ma_shop;TIS
 tis_ma_0;Samolet MA | Polikarpov Tyazholyy Istrebitel' Soprovozhdeniya
 tis_ma_1;TIS
 tis_ma_2;TIS
+;
 ar_2_shop;Ar-2
 ar_2_0;Arkhangelsky Ar-2
 ar_2_1;Ar-2
 ar_2_2;Ar-2
+;
 kor_1_shop;Be-2
 kor_1_0;Beriev Be-2
 kor_1_1;Be-2
@@ -2562,6 +2591,7 @@ be_6_shop;Be-6
 be_6_0;Beriev Be-6
 be_6_1;Be-6
 be_6_2;Be-6
+;
 shop/group/il-2i_group;Il-2 1941 / 1942
 shop/group/il-2m_group;Il-2 1943 / 1944
 il_2_1941_shop;Il-2 obr.1941
@@ -2614,6 +2644,7 @@ il_28sh_shop;Il-28Sh
 il_28sh_0;Ilyushin Il-28Sh
 il_28sh_1;Il-28Sh
 il_28sh_2;Il-28
+;
 shop/group/la_5_group;La-5 / La-5F
 la-5_type37_early_shop;La-5
 la-5_type37_early_0;Lavochkin La-5 Tip 37, serii 8
@@ -2660,6 +2691,7 @@ la_200_toriy_shop;La-200
 la_200_toriy_0;Lavochkin La-200 (Torij-A)
 la_200_toriy_1;La-200
 la_200_toriy_2;La-200
+;
 shop/group/lagg-3_group;LaGG-3-8/11
 shop/group/lagg-3_late_group;LaGG-3-35/66
 lagg-3-1_shop;LaGG-3-1
@@ -2698,6 +2730,7 @@ lagg-3-66_shop;LaGG-3-66
 lagg-3-66_0;Lavochkin-Gorbunov-Gudkov LaGG-3 serii 66
 lagg-3-66_1;LaGG-3
 lagg-3-66_2;LaGG-3
+;
 shop/group/mig-3_group;MiG-3
 mig-3_shop;MiG-3
 mig-3_0;Mikoyan-Gurevich MiG-3
@@ -2805,6 +2838,7 @@ mig_29smt_9_19_shop;MiG-29SMT
 mig_29smt_9_19_0;Izdeliye 9-19 | Mikoyan-Gurevich MiG-29 SMT
 mig_29smt_9_19_1;MiG-29
 mig_29smt_9_19_2;MiG-29
+;
 shop/group/pe-2_group;Pe-2
 shop/group/pe-2_early_group;Pe-2 (early)
 shop/group/pe-2_late_group;Pe-2 (late)
@@ -2865,6 +2899,7 @@ po-2_nw_shop;Po-2 (Spooktober)
 po-2_nw_0;Polikarpov Po-2 (Spooktober)
 po-2_nw_1;Po-2
 po-2_nw_2;Po-2
+;
 shop/group/su-2_group;Su-2
 bb-1_shop;BB-1
 bb-1_0;Sukhoi Blizhniy Bombardirovschik-1
@@ -2951,6 +2986,7 @@ su_25tm_shop;Su-39
 su_25tm_0;Suchoi Su-39
 su_25tm_1;Su-39
 su_25tm_2;Su-39
+;
 shop/group/tu-2_group;Tu-2S
 tu-1_shop;Tu-1
 tu-1_0;Tupolev Tu-1
@@ -2980,6 +3016,7 @@ tu_14t_shop;Tu-14T
 tu_14t_0;Tupolev Tu-14 Torpedo
 tu_14t_1;Tu-14T
 tu_14t_2;Tu-14
+;
 shop/group/yak-1_group;Yak-1
 yak-1_early_shop;Yak-1-1
 yak-1_early_0;Yakovlev Yak-1 Serii 1
@@ -3094,6 +3131,7 @@ yak_141_shop;Yak-41M
 yak_141_0;Yakovlev Yak-41M
 yak_141_1;Yak-41M
 yak_141_2;Yak-41
+;
 shop/group/er-2_group;Yer-2 (M-105)
 shop/group/er-2_late_group;Yer-2 (ACh-30)
 er-2_m105_mv3_shop;Yer-2 (M-105) (MV-3)
@@ -3121,6 +3159,7 @@ er-2_ach30b_late_shop;Yer-2-4 (ACh-30B)
 er-2_ach30b_late_0;Yermolayev Yer-2 (ACh-30B) serii 4
 er-2_ach30b_late_1;Yer-2
 er-2_ach30b_late_2;Yer-2
+;
 b_25j_30_vvs_ussr_shop;▂ B-25J-30
 b_25j_30_vvs_ussr_0;Nort Amyerican B-25J-30 Mitchyell
 b_25j_30_vvs_ussr_1;▂ B-25J
@@ -3177,7 +3216,10 @@ p-47d_ussr_shop;▂ P-47D-27
 p-47d_ussr_0;Ripablic P-47D-27-RE Tandyerbolt
 p-47d_ussr_1;▂ P-47D
 p-47d_ussr_2;▂ P-47
-ussr_BLUEWATER_FLEET;
+;
+;
+;
+USSR_BLUEWATER_FLEET;
 ussr_destroyer_frunze_shop;Frunze
 ussr_destroyer_frunze_0;Tip Derzkiy Eskadrennyye Minonostsev, Frunze, 1940
 ussr_destroyer_frunze_1;Frunze
@@ -3317,6 +3359,8 @@ ussr_aircraftcarrier_baku_2;Avianesushchiy Kreyser
 Destroyer_ussr_Type7_0;Proyekt 7U Eskadrennyye Minonostsev, Storozhevoy, 1944
 Destroyer_ussr_Type7_1;Storozhevoy
 Destroyer_ussr_Type7_2;Destroyer
+;
+;
 USSR_COASTAL_FLEET;
 ussr_g5_mtb_shop;TK-43
 ussr_g5_mtb_0;Tip G-5 Serii X Torpedovyy Kater, TK 43, 1941
@@ -3478,6 +3522,8 @@ ussr_skr_pr35_shop;PLK-7
 ussr_skr_pr35_0;Proyekt 35 | Protivolodochnyy Korabl' , PLK-7
 ussr_skr_pr35_1;PLK-7
 ussr_skr_pr35_2;Protivolodochnyy Korabl'
+;
+;
 GERMANY_ARMY;
 germ_nbfz_VI_shop;Neubaufahrzeug
 germ_nbfz_VI_0;Panzerkampfwagen Neubaufahrzeug VI
@@ -4105,6 +4151,7 @@ shop/group/germ_marder_group;Marder
 shop/group/germ_jagdpanther_group;Jagdpanther / Jpz 4-5
 shop/group/germ_panzerjager_tiger_group;Panzerjäger Tiger
 ;
+;
 GERMANY_HELICOPTERS;
 sa_313b_shop;◄ SA 313B Alouette II
 sa_313b_0;Aérospatiale SA 313B Alouette II
@@ -4142,6 +4189,8 @@ tiger_uht_shop;EC-665 UH Tiger
 tiger_uht_0;Eurocopter EC-665 Unterstützungshubschrauber Tiger
 tiger_uht_1;EC-665 UH Tiger
 tiger_uht_2;EC-665
+;
+;
 GERMANY_AVIATION;
 arado-196a-3_shop;Ar 196A-3
 arado-196a-3_0;Arado Ar 196A-3
@@ -4868,6 +4917,8 @@ shop/group/mc200_group;▀ C. 200
 shop/group/sm_79_group;▀ S.M.79
 shop/group/f-86_german_group;Sabre
 shop/group/mig_21_germany_group;MiG 21
+;
+;
 GERMANY_BLUEWATER_FLEET;
 germ_destroyer_class1924_leopard1932_shop;Leopard
 germ_destroyer_class1924_leopard1932_0;Typ 1924, Rabtier Klasse Torpedoboot, Leopard (LP), 1932
@@ -5023,6 +5074,8 @@ ships/germ_bb_tirpitz_2;Battleship
 ships/germ_bb_tirpitz_searchlight_top_0;Tirpitz
 ships/germ_bb_tirpitz_searchlight_top_1;Tirpitz
 ships/germ_bb_tirpitz_searchlight_top_2;Battleship
+;
+;
 GERMANY_COASTAL_FLEET;
 germ_ls_class_shop;LS 3
 germ_ls_class_0;LS 3 Typ Leichtes Schnellboot, LS 3, 1941
@@ -5156,6 +5209,8 @@ germ_type143_bussard_shop;Bussard
 germ_type143_bussard_0;Typ 143, Albatros Klasse Flugkörperschnellboot, Bussard (S64), 1976
 germ_type143_bussard_1;Albatros Klasse
 germ_type143_bussard_2;Flugkörperschnellboot
+;
+;
 GREAT_BRITAIN_ARMY;
 general staff number;
 uk_a1e1_independent_shop;Independent
@@ -5637,6 +5692,8 @@ shop/group/uk_ratel_group;Ratel
 shop/group/uk_g6_eland_group;G6 / Eland
 shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk. 1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk. 1
+;
+;
 GREAT_BRITAIN_HELICOPTERS;
 scout_ah_mk1_shop;Scout AH.1
 scout_ah_mk1_0;Westland Scout Army Helicopter Mark 1
@@ -5662,6 +5719,8 @@ ah_mk1_shop;Apache AH.1
 ah_mk1_0;AgustaWestland Apache Army Helicopter Mark 1
 ah_mk1_1;Apache AH.1
 ah_mk1_2;Apache AH.1
+;
+;
 GREAT_BRITAIN_AVIATION;
 osprey_mk4_shop;Osprey Mk IV
 osprey_mk4_0;Hawker Osprey Mark IV
@@ -6250,6 +6309,8 @@ shop/group/spitfire_mk5c_group;Spifire Mk Vc
 shop/group/spitfire_mk9_group;Spitfire Mk IX / XVI
 shop/group/spitfire_mk9e_group;Spitfire F
 shop/group/spitfire_griffon_group;Spitfire F.Mk 22 / 24
+;
+;
 GREAT_BRITAIN_BLUEWATER_FLEET;
 uk_destroyer_v_class_vega_shop;HMS Vega
 uk_destroyer_v_class_vega_0;V-class Destroyer, His Majesty's Ship Vega (L41), 1944
@@ -6452,6 +6513,8 @@ uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal
 uk_aircraftcarrier_ark_royal_0;Audacious Class Aircraft Carrier, Her Majesty's Ship Ark Royal (R09), 1975
 uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
 uk_aircraftcarrier_ark_royal_2;Aircraft Carrier
+;
+;
 GREAT_BRITAIN_COASTAL_FLEET;
 uk_mtb_1series_shop;HMS MTB 1
 uk_mtb_1series_0;British Power Boat BPB 60 Feet Class Motor Torpedo Boat, His Majesty's Ship MTB 1, 1938
@@ -6585,6 +6648,8 @@ uk_frigate_whitby_blackpool_shop;HMS Blackpool
 uk_frigate_whitby_blackpool_0;Type 12 | Whitby Class Anti-Submarine Frigate, Her Majesty's Ship Blackpool (F77), 1963
 uk_frigate_whitby_blackpool_1;MS Blackpool
 uk_frigate_whitby_blackpool_2;Frigate
+;
+;
 JAPAN_ARMY;
 jp_type_95_ha_go_shop;Ha-Gō
 jp_type_95_ha_go_0;Type 95 Ha-Gō
@@ -6861,6 +6926,8 @@ shop/group/jp_type_74_stb_group;STB / Type 74 C
 shop/group/jp_type_74_group;Type 74 E / F
 shop/group/jp_type_90_group;Type 90
 shop/group/jp_type_10_group;Type 10
+;
+;
 JAPAN_HELICOPTERS;
 uh_1b_japan_shop;▅ UH-1B
 uh_1b_japan_0;Fuji Heavy Industries Utility Helicopter UH-1B "Huey"
@@ -6882,6 +6949,8 @@ ah_64d_japan_shop;▅ AH-64D
 ah_64d_japan_0;Fuji Heavy Industries Attack Helicopter AH-64D Apachi Longbow
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
+;
+;
 JAPAN_AVIATION;
 ki_10_1_shop;Ki-10-I
 ki_10_1_0;Army Type 95 Fighter Model 1 | Kawasaki Ki-10-I
@@ -7368,6 +7437,8 @@ shop/group/h6k_h8k_group;H6K / H8K
 shop/group/j2m_group;J2M
 shop/group/r2y2_group;R2Y2
 shop/group/n1k2_group;N1K
+;
+;
 JAPAN_BLUEWATER_FLEET;
 jp_destroyer_momi_shop;Momi
 jp_destroyer_momi_0;F-37 | Matsu-gata Kuchikukan, Momi, 1930
@@ -7639,6 +7710,8 @@ jp_cargo_ship_kashino_2;Unsōkan
 jp_cargo_ship_kashino_EC_0;Unsōkan, Kashino, 1941
 jp_cargo_ship_kashino_EC_1;Unsōkan
 jp_cargo_ship_kashino_EC_2;Unsōkan
+;
+;
 JAPAN_COASTAL_FLEET;
 jp_t14_class_shop;T-14 №540
 jp_t14_class_0;T-14 | Dai-538 Gō-Gata Gyoraitei, Dai 540-Gō, 1945
@@ -7744,6 +7817,8 @@ jp_destroyer_ayanami_shop;JDS Ayanami
 jp_destroyer_ayanami_0;F-102 | Ayanami-gata Goeikan, Japanese Defence Ship Ayanami (DD-103), 1959
 jp_destroyer_ayanami_1;Ayanami Class
 jp_destroyer_ayanami_2;Frigate
+;
+;
 CHINA_ARMY;
 Z	Armored				Zhuāngjiǎ,			装甲;
 P	Gun					Pào					炮;
@@ -8070,6 +8145,8 @@ shop/group/cn_t_34_85_group;T-34-85
 shop/group/cn_76_211_group;211 / PT-76
 shop/group/cn_is_2_group;IS-2
 shop/group/cn_m3_m5_stuart_group;M3A3 / M5A1
+;
+;
 CHINA_HELICOPTERS;
 sa_342l_china_shop;␗ SA 342 L
 sa_342l_china_0;Aerospatiale SA 342 L "xiăolíngyáng"
@@ -8391,6 +8468,8 @@ shop/group/mig-9_china_group;MiG-9
 shop/group/mig-15_china_group;J-2 / J-4
 shop/group/mig-19_china_group;J-6 / J-7
 shop/group/ki_27_group;Ki 27 / Ki 43
+;
+;
 ITALY_ARMY;
 it_ab_41_shop;AB.41
 it_ab_41_0;Fiat Ansaldo Autoblinda 41
@@ -8744,6 +8823,8 @@ shop/group/it_fiat_group;Fiat Autoblinda
 shop/group/it_centauro_105_group;B1 Centauro
 shop/group/it_ariete_group;C1 Ariete
 shop/group/it_dardo_group;VCC-80 Dardo
+;
+;
 ITALY_HELICOPTERS;
 ab_205a_1_shop;AB205A-1
 ab_205a_1_0;Agusta-Bell AB205A-1
@@ -8773,6 +8854,8 @@ mi_24v_hungary_shop;◐ Mi-35
 mi_24v_hungary_0;Mil Mi-35
 mi_24v_hungary_1;◐ Mi-35
 mi_24v_hungary_2◐ Mi-35;
+;
+;
 ITALY_AVIATION;
 re_2000_int_shop;Re.2000 I
 re_2000_int_0;Reggiane Re.2000 serie I Falco I
@@ -9224,6 +9307,8 @@ it_battleship_caio_duilio_2;Corazzata
 ships/ital_cv_aquila_0;RN Aquila
 ships/ital_cv_aquila_1;Regia Nave Aquila, 1942
 ships/ital_cv_aquila_2;Aircraft Carrier
+;
+;
 ITALY_COASTAL_FLEET;
 it_mas_classe500_3_1944_shop;MAS 561
 it_mas_classe500_3_1944_0;Velocissimo Classe 500 3ª Serie Motoscafo Armato Silurante, MAS 561, 1944
@@ -9301,6 +9386,8 @@ it_albatros_class_f543_shop;Albatros
 it_albatros_class_f543_0;Corvetta Classe Albatros, Albatros (F 543), 1958
 it_albatros_class_f543_1;Albatros
 it_albatros_class_f543_2;Corvetta
+;
+;
 FRANCE_ARMY_;
 fr_cckw_353_bofors_shop;☨ CCKW 353 (M1)
 fr_cckw_353_bofors_0;Truck, 2½-Ton, 6x6, GMC CCKW 353 (40mm M1)
@@ -9632,6 +9719,8 @@ shop/group/fr_mars_hot_group;MARS / AMX 13
 shop/group/fr_lorraine_bat_group;Char 25t / Lorraine 40t
 shop/group/fr_lorraine_elc_group;CA Lorraine / ELC
 shop/group/fr_b1_2c_group;B1 / 2C
+;
+;
 FRANCE_HELICOPTERS;
 h_34_france_shop;☨ H-34A
 h_34_france_0;Sud-Aviation H-34A
@@ -9665,6 +9754,8 @@ tiger_had_france_shop;EC-665 Tigre HAD
 tiger_had_france_0;Eurocopter EC-665 Tigre Hélicoptère d'Appui Destruction
 tiger_had_france_1;EC-665 Tigre HAD
 tiger_had_france_2;EC-665
+;
+;
 FRANCE_AVIATION;
 shop/group/d_371_group;D.37
 d_371_shop;D.371
@@ -10016,6 +10107,8 @@ shop/group/md_454_group;M.D.45 / M.D.46
 shop/group/maryland_group;Martin 167 / M.B.174
 shop/group/mirage_3_group;Mirage III
 shop/group/so_4050_vautour_group;Vautour
+;
+;
 FRANCE_BLUEWATER_FLEET;
 I RANK;
 fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque
@@ -10091,6 +10184,8 @@ fr_battleship_bretagne_class_lorraine_shop;Lorraine
 fr_battleship_bretagne_class_lorraine_0;Classe Bretagne Cuirassé, Lorraine, 1944
 fr_battleship_bretagne_class_lorraine_1;Lorraine
 fr_battleship_bretagne_class_lorraine_2;Cuirassé
+;
+;
 SWEDEN_ARMY;
 sw_strv_m31_shop;Strv m/31
 sw_strv_m31_0;Landsverk L-10 | Stridsvagn m/31
@@ -10420,6 +10515,8 @@ shop/group/sw_pt_76_comet_group;PT-76 / Comet
 shop/group/sw_cv_90_ifv_group;CV 90
 shop/group/sw_strv_122_group;Strv 122B
 shop/group/sw_strv_104_103c_group;Strv 103/104
+;
+;
 SWEDEN_HELICOPTERS;
 hkp3c_shop;Hkp 3C
 hkp3c_0;Bell Helikopter 3C
@@ -10445,6 +10542,8 @@ mi_28a_sweden_shop;AHS S95 Havoc
 mi_28a_sweden_0;Attackhelikoptersystem studie 1995 | Mil Mi-28A Prototype 042 Havoc
 mi_28a_sweden_1;AHS S95 Havoc
 mi_28a_sweden_2;AHS Havoc
+;
+;
 SWEDEN_AVIATION;
 he_115a_2_sweden_shop;T 2
 he_115a_2_sweden_0;Heinkel Torpedflygplan T 2
@@ -10677,6 +10776,8 @@ shop/group/saab_t18b_group;T 18
 shop/group/saab_j21a_group;J 21
 shop/group/bf_109g_sweden_group;Bf 109
 shop/group/vampire_fb_group;Vampire
+;
+;
 ISRAEL_ARMY;
 il_amx_13_75_shop; AMX 13
 il_amx_13_75_0;Char léger AMX 13 (Tourelle FL 10 avec 75)
@@ -10848,6 +10949,8 @@ shop/group/il_magach_6a_5_group;Magach 6A / 5
 shop/group/il_magach_6_group;Magach 6B / 6R
 shop/group/il_magach_6m_c_group;Magach 6M / 6C
 shop/group/il_magach_batash_7_group;Magach 6B / 7
+;
+;
 ISRAEL_HELICOPTERS;
 ah_1g_iaf_shop;Tzefa A
 ah_1g_iaf_0;Bell AH-1F Tzefa Alef
@@ -10877,6 +10980,8 @@ ah_64d_i_saraph_shop;Saraph
 ah_64d_i_saraph_0;Boeing AH-64D Saraph
 ah_64d_i_saraph_1;Saraph
 ah_64d_i_saraph_2;Saraph
+;
+;
 ISRAEL_AVIATION;
 spitfire_mk9c_iaf_shop; Spitfire F. Mk. Ixc
 spitfire_mk9c_iaf_0;Supermarine Spitfire F. Mk IXc
